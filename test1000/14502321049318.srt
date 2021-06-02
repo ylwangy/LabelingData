@@ -1,0 +1,15 @@
+﻿1
+00:00:01,120 --> 00:00:03,811
+Minions were in their bed.
+小黄人在床上
+
+2
+00:00:08,297 --> 00:00:11,891
+What do you want to be when you grow up?
+你长大了想做什么
+
+3
+00:00:11,960 --> 00:00:17,828
+When I grow up, I want to be a captain.
+我长大了想当船长
+

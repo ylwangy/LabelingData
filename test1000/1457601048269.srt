@@ -1,0 +1,50 @@
+﻿1
+00:00:00,731 --> 00:00:06,011
+"I love my cub," said the bear.
+熊说  我爱我的小宝宝
+
+2
+00:00:08,400 --> 00:00:12,880
+"I love my kid," said the goat.
+山羊说  我爱我的孩子
+
+3
+00:00:15,600 --> 00:00:20,205
+"I love my chick," said the hen.
+母鸡说  我爱我的小鸡仔
+
+4
+00:00:22,925 --> 00:00:27,405
+"I love my kitten," said the cat.
+猫说  我爱我的小猫咪
+
+5
+00:00:29,931 --> 00:00:34,742
+"I love my puppy," said the dog.
+狗说  我爱我的小狗
+
+6
+00:00:37,325 --> 00:00:42,102
+"I love my joey," said the kangaroo.
+袋鼠说  我爱我的小袋鼠
+
+7
+00:00:44,537 --> 00:00:49,565
+"I love my kit," said the fox.
+狐狸说  我爱我的小狐狸
+
+8
+00:00:52,125 --> 00:00:56,240
+"I love my foal," said the horse.
+马说  我爱我的小马驹
+
+9
+00:00:58,948 --> 00:01:03,645
+"I love my fawn," said the deer.
+鹿说  我爱我的小鹿
+
+10
+00:01:06,228 --> 00:01:09,862
+"I love you," said the mommy.
+妈妈说  我爱你
+

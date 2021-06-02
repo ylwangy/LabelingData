@@ -1,0 +1,36 @@
+﻿1
+00:00:00,114 --> 00:00:02,700
+Hello?What's this?
+
+2
+00:00:02,925 --> 00:00:04,560
+- Oh, hi.- Hello.
+
+3
+00:00:04,594 --> 00:00:05,897
+Hi!
+
+4
+00:00:06,000 --> 00:00:08,662
+- A pie.- Yep. We made it for you.
+
+5
+00:00:08,845 --> 00:00:12,297
+But I think it really tired out poor, old mrs. tiggy-winkle.
+
+6
+00:00:12,891 --> 00:00:17,360
+Yes, because baking is so much more tiring than, say,
+
+7
+00:00:17,428 --> 00:00:19,360
+going on a strawberry raid.
+
+8
+00:00:19,474 --> 00:00:20,262
+Oh.
+
+9
+00:00:20,422 --> 00:00:22,605
+Uh...Yeah.
+

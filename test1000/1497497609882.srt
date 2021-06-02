@@ -1,0 +1,5 @@
+﻿1
+00:00:01,056 --> 00:00:05,292
+My name is Jimmy Kudo, high school detective. But to the world, I'm Conan Edogawa.
+我是高中生侦探工藤新一  但对于世人  我的身份是江户川柯南
+

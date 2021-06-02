@@ -1,0 +1,30 @@
+﻿1
+00:00:02,525 --> 00:00:05,337
+These are gumtrees.
+这些是桉树
+
+2
+00:00:06,045 --> 00:00:09,611
+They have leaves that are poisonous to most animals.
+桉树叶中因为含有有毒物质 让大多数动物望而却步
+
+3
+00:00:11,360 --> 00:00:13,508
+But not the koala.
+但树袋熊是个例外
+
+4
+00:00:13,554 --> 00:00:16,331
+They eat almost nothing else.
+它们唯一的食物就是桉树叶
+
+5
+00:00:18,982 --> 00:00:22,034
+There are echidnas in these forests, too -
+森林地面上也有针鼹四处出没
+
+6
+00:00:22,182 --> 00:00:27,200
+mammals that don't even have pouches but lay eggs, like reptiles.
+这种哺乳动物没有育儿袋 而是像爬行动物一样产卵
+

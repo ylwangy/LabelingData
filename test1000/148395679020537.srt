@@ -1,0 +1,40 @@
+﻿1
+00:00:03,420 --> 00:00:06,540
+Tell me the rules of the competition.
+告诉我比赛的规则
+
+2
+00:00:07,200 --> 00:00:10,140
+You must run on your own track.
+你必须在自己的跑道上跑
+
+3
+00:00:13,500 --> 00:00:15,380
+Sports meeting rules：
+运动会规则
+
+4
+00:00:16,680 --> 00:00:19,560
+Be more than 10 years old.
+大于十岁
+
+5
+00:00:20,440 --> 00:00:22,400
+Wear sports shoes.
+穿运动鞋
+
+6
+00:00:23,620 --> 00:00:25,360
+Be there on time.
+准时参加
+
+7
+00:00:26,300 --> 00:00:28,460
+Do warm-up exercise.
+热身
+
+8
+00:00:29,680 --> 00:00:31,480
+Pass the finish line.
+跑过终点线
+

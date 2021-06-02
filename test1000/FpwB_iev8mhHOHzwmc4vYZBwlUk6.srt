@@ -1,0 +1,25 @@
+﻿1
+00:00:01,410 --> 00:00:03,165
+I like this scarf.
+我喜欢这条围巾
+
+2
+00:00:04,628 --> 00:00:07,348
+I like this scarf very much.
+我非常喜欢这条围巾
+
+3
+00:00:08,640 --> 00:00:11,725
+I like to wear this scarf very much.
+我非常喜欢带这条围巾
+
+4
+00:00:13,097 --> 00:00:17,062
+I like to wear this comfortable scarf very much.
+我非常喜欢带这条舒适的围巾
+
+5
+00:00:18,377 --> 00:00:23,760
+I like to wear this comfortable scarf from my father very much.
+我非常喜欢带这条父亲送我的舒适的围巾
+

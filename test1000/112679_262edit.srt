@@ -1,0 +1,44 @@
+﻿1
+00:00:04,610 --> 00:00:06,199
+I'm Twilight Sparkle.
+我叫紫悦
+
+2
+00:00:08,190 --> 00:00:09,312
+What's your name?
+你叫什么名字
+
+3
+00:00:10,026 --> 00:00:13,495
+I'm... I'm Fluttershy.
+我   我叫小蝶
+
+4
+00:00:13,622 --> 00:00:15,178
+I'm sorry, what was that?
+很抱歉   我没听清   你说什么
+
+5
+00:00:15,533 --> 00:00:19,265
+Um... My name is Fluttershy.
+恩   我叫小蝶
+
+6
+00:00:19,306 --> 00:00:20,989
+Didn't quite catch that.
+还是没听太清
+
+7
+00:00:27,520 --> 00:00:31,214
+Wow, um... It looks like your birds are back!
+哇   嗯   好像你的鸟儿都回来了
+
+8
+00:00:31,317 --> 00:00:33,516
+So I guess everything is in order.
+我想一切都恢复正常了
+
+9
+00:00:33,557 --> 00:00:35,275
+Keep up the good work!
+继续加油哦

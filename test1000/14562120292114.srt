@@ -1,0 +1,25 @@
+﻿1
+00:00:00,840 --> 00:00:03,740
+Jenny, what are you doing now?
+詹妮  你现在在干嘛
+
+2
+00:00:04,120 --> 00:00:07,980
+I am drawing a picture. What are you doing?
+我在画一幅画  你在干嘛
+
+3
+00:00:08,590 --> 00:00:10,490
+I'm reading a book.
+我在读一本书
+
+4
+00:00:11,130 --> 00:00:14,150
+Danny is singing a song to your mother.
+丹尼在给你妈妈唱一首歌
+
+5
+00:00:14,820 --> 00:00:17,660
+Danny, please don't sing!
+丹尼  请不要唱了
+

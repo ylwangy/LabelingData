@@ -1,0 +1,45 @@
+﻿1
+00:00:18,594 --> 00:00:24,285
+​Turtle, turtle, where are you?
+乌龟   乌龟   你在哪里
+
+2
+00:00:24,811 --> 00:00:27,428
+It's not in the garden.
+它不在花园里
+
+3
+00:00:27,897 --> 00:00:31,211
+It's not in the kitchen.
+它不在厨房里
+
+4
+00:00:34,171 --> 00:00:36,434
+Is it in the living room?
+它在起居室里吗
+
+5
+00:00:36,937 --> 00:00:41,154
+No, it's not in the living room.
+不   它不在起居室里
+
+6
+00:00:43,874 --> 00:00:46,685
+Is it in the dining room?
+它在餐厅里吗
+
+7
+00:00:47,440 --> 00:00:51,965
+No, it's not in the dining room.
+不   它不在餐厅里
+
+8
+00:00:54,628 --> 00:00:59,680
+I am in the bathroom. I'm sleeping!
+我在浴室里   我在睡觉
+
+9
+00:00:59,988 --> 00:01:02,937
+Oh, turtle!
+哦   乌龟
+

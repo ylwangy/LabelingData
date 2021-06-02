@@ -1,0 +1,40 @@
+﻿1
+00:00:00,320 --> 00:00:03,988
+We like to paint on a rainy day.
+我们喜欢在下雨天画画
+
+2
+00:00:04,754 --> 00:00:08,342
+We like to bake on a rainy day.
+我们喜欢在下雨天烘烤食品
+
+3
+00:00:09,657 --> 00:00:13,337
+We like to hide on a rainy day.
+我们喜欢在下雨天躲猫猫
+
+4
+00:00:14,662 --> 00:00:18,331
+We like to dance on a rainy day.
+我们喜欢在下雨天跳舞
+
+5
+00:00:19,668 --> 00:00:22,994
+We like to sing on a rainy day.
+我们喜欢在下雨天唱歌
+
+6
+00:00:23,851 --> 00:00:27,337
+We love to read on a rainy day.
+我们爱在下雨天阅读
+
+7
+00:00:28,365 --> 00:00:31,885
+We love to write on a rainy day.
+我们爱在下雨天写字
+
+8
+00:00:32,240 --> 00:00:34,697
+We love a rainy day!
+我们爱下雨天
+

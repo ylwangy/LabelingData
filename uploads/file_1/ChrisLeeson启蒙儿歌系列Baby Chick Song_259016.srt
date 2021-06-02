@@ -1,0 +1,40 @@
+﻿1
+00:00:00,000 --> 00:00:04,160
+I'm a little chick, singing cheep, cheep, cheep.
+我是一只小小鸡，唱着歌儿叽叽叽。
+
+2
+00:00:04,400 --> 00:00:08,360
+I like to pick up food with my beak, beak, beak.
+喜欢啄来又啄去，找到食物真开心。
+
+3
+00:00:08,640 --> 00:00:11,800
+I've a fluffy yellow head with straw for my bed.
+一头绒绒小黄毛，软软稻草是我床
+
+4
+00:00:12,000 --> 00:00:15,600
+And I jump up and down singing cheep, cheep, cheep.
+我跳上，又跳下，唱着歌儿叽叽叽。
+
+5
+00:00:15,880 --> 00:00:19,920
+I'm a little chick, singing cheep, cheep, cheep.
+我是一只小小鸡，唱着歌儿叽叽叽。
+
+6
+00:00:20,280 --> 00:00:23,880
+I like to pick up food with my beak, beak, beak.
+喜欢啄来又啄去，找到食物真开心。
+
+7
+00:00:24,160 --> 00:00:27,720
+I've a fluffy yellow head with straw for my bed.
+一头绒绒小黄毛，软软稻草是我床
+
+8
+00:00:27,920 --> 00:00:31,360
+And I jump up and down singing cheep, cheep, cheep.
+我跳上，又跳下，唱着歌儿叽叽叽。
+

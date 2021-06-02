@@ -1,0 +1,29 @@
+﻿1
+00:00:00,080 --> 00:00:02,422
+cheap  chair  catch  rich
+便宜的  椅子   抓住  富有的
+
+2
+00:00:02,537 --> 00:00:05,097
+enjoy  joke  jeep  message
+享受  笑话  吉普车  消息
+
+3
+00:00:05,542 --> 00:00:07,725
+The chief chewed the cheap cheese.
+酋长嚼着廉价干酪
+
+4
+00:00:07,791  --> 00:00:10,334
+They reach the village in the end.
+他们最终到达了那个村庄
+
+5
+00:00:10,502 --> 00:00:13,268
+The judge in his jeans can't jump into his jeep.
+穿牛仔裤的法官不能跳上吉普车
+
+6
+00:00:13,668 --> 00:00:16,137
+John urges Jane to buy a digital watch.
+约翰敦促珍妮买一只电子表

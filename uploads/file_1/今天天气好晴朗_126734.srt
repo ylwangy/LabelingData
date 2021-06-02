@@ -1,0 +1,25 @@
+﻿1
+00:00:01,632 --> 00:00:06,448
+Hello squirrels! I wonder what Duggee has planned for you today?
+小松鼠你们好  不知道Duggee老师今天给你们怎么安排呢
+
+2
+00:00:09,840 --> 00:00:11,344
+Hi Duggee!
+嗨  Duggee老师
+
+3
+00:00:11,340 --> 00:00:13,088
+Wo-of! 
+汪汪
+
+4
+00:00:13,080 --> 00:00:15,536
+What's the weather like outside, Duggee?
+外面天气怎样呢  Duggee
+
+5
+00:00:19,248 --> 00:00:21,744
+Yeah, it's really sunny!
+呀  阳光明媚
+

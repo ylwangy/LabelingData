@@ -1,0 +1,74 @@
+﻿1
+00:00:00,000 --> 00:00:01,080
+Hello.
+你们好
+
+2
+00:00:01,710 --> 00:00:03,970
+Hi. What a nice surprise.
+嗨 你怎么来了
+
+3
+00:00:04,010 --> 00:00:06,620
+Well, I just came by to see how you two were getting along.
+我就是来看看你们俩相处得如何
+
+4
+00:00:06,810 --> 00:00:08,640
+Well, everything's going really great.
+一切都非常好呢
+
+5
+00:00:08,690 --> 00:00:10,280
+Oh, that's nice to hear.
+哦 听到真高兴啊
+
+6
+00:00:11,810 --> 00:00:13,890
+I was hoping you two would enjoy working together.
+我很希望你们俩可以愉快共事呢
+
+7
+00:00:15,930 --> 00:00:17,190
+What's with the blinking?
+你眨眼是什么情况
+
+8
+00:00:18,510 --> 00:00:19,610
+It's Morse code.
+这是摩斯密码
+
+9
+00:00:21,160  --> 00:00:23,510
+So we can talk about...
+这样我们可以谈论  嗯嗯
+
+10
+00:00:25,640 --> 00:00:29,180
+without hurting... 's feelings.
+而不会伤害 嗯嗯 的感情
+
+11
+00:00:30,080 --> 00:00:32,130
+Sheldon, I don't know Morse code.
+Sheldon 我不懂摩斯密码
+
+12
+00:00:32,230 --> 00:00:34,360
+I do. And if you have something to say,
+我懂 你要是想说什么的话
+
+13
+00:00:34,380 --> 00:00:35,580
+you can say it to my face.
+你可以当我的面说
+
+14
+00:00:35,780 --> 00:00:37,730
+Oh. All right.
+哦 好吧
+
+15
+00:00:46,920  --> 00:00:49,820
+I'm a little rusty. Could you say that again?
+我有点生疏了 你可以再说一遍吗

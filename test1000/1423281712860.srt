@@ -1,0 +1,30 @@
+﻿1
+00:00:00,134 --> 00:00:01,894
+Third example.
+第三个例子
+
+2
+00:00:02,134 --> 00:00:04,675
+Hello, John! I am Nicola.
+嗨  约翰  我是尼古拉
+
+3
+00:00:04,713 --> 00:00:08,355
+I work as a receptionist in a construction company.
+我在一家建筑公司做前台接待
+
+4
+00:00:08,790 --> 00:00:11,011
+I like my job very much.
+我非常喜欢我的这份工作
+
+5
+00:00:11,260 --> 00:00:14,940
+I live in New Jersey, and I am 26 years old.
+我住在新泽西  我现在26岁
+
+6
+00:00:15,465 --> 00:00:18,979
+My hobby is reading. I love to read novels.
+我的爱好是阅读  我喜欢读小说
+

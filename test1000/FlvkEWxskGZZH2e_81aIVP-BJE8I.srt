@@ -1,0 +1,60 @@
+﻿1
+00:00:00,096 --> 00:00:01,464
+I have a question.
+我有一个问题
+
+2
+00:00:04,000 --> 00:00:06,560
+How does a ship move in the water?
+船在水里是怎么前进的
+
+3
+00:00:06,952 --> 00:00:09,248
+"Nathan, do you know that?"
+Nathan  你知道吗  
+
+4
+00:00:09,790 --> 00:00:11,140
+It's the wind!
+是风
+
+5
+00:00:11,840 --> 00:00:14,512
+The wind pushes the ship forward.
+帆船靠风前进
+
+6
+00:00:15,016 --> 00:00:16,336
+Exactly!
+没错
+
+7
+00:00:16,712 --> 00:00:19,464
+What if the wind is from another direction?
+但是  如果风是从其他方向来的呢
+
+8
+00:00:20,016 --> 00:00:23,344
+For example the wind pushes the ship sideways?
+比如风是从侧面吹来的呢
+
+9
+00:00:23,840 --> 00:00:26,336
+We can trim the sail to the wind.
+我们可以调整船帆的方向
+
+10
+00:00:27,192 --> 00:00:28,056
+I see.
+明白了
+
+11
+00:00:29,216 --> 00:00:30,896
+This is amazing!
+真是太神奇了
+
+12
+00:00:33,272 --> 00:00:34,568
+Amazing!
+真神奇
+

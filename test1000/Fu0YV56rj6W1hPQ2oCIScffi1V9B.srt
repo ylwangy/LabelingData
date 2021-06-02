@@ -1,0 +1,60 @@
+﻿1
+00:00:01,862 --> 00:00:03,725
+Who is he?
+他是谁
+
+2
+00:00:04,160 --> 00:00:11,325
+He is Ben. He is from America. He is an American.
+他是本  他来自美国  他是美国人
+
+3
+00:00:13,828 --> 00:00:15,771
+Who is he?
+他是谁
+
+4
+00:00:16,742 --> 00:00:24,068
+He is Jeff. He is from England. He is British.
+他是杰夫  他来自英国  他是英国人
+
+5
+00:00:27,531 --> 00:00:28,674
+Who is he?
+他是谁
+
+6
+00:00:29,931 --> 00:00:37,497
+He is Ted. He is from Canada. He is a Canadian.
+他是泰德  他来自加拿大  他是加拿大人
+
+7
+00:00:40,411 --> 00:00:41,862
+Who is he?
+他是谁
+
+8
+00:00:43,165 --> 00:00:50,251
+He is Fred. He is from America. He is an American, too.
+他是弗瑞德  他来自美国  他也是美国人
+
+9
+00:00:53,348 --> 00:00:54,845
+Who is she?
+她是谁
+
+10
+00:00:55,348 --> 00:01:04,080
+She is Meg. She is from South Korea. She is a South Korean.
+她是玛格  她来自韩国  她是韩国人
+
+11
+00:01:05,954 --> 00:01:08,091
+Who is she?
+她是谁
+
+12
+00:01:08,914 --> 00:01:16,308
+She is Kelly. She is from Japan. She is Japanese.
+她是凯利  他来自日本  她是日本人
+

@@ -1,0 +1,40 @@
+1
+00:00:03,897 --> 00:00:05,777
+Once upon a time,
+很久以前
+
+2
+00:00:05,794 --> 00:00:07,571
+there was a little girl.
+有一个小女孩
+
+3
+00:00:07,725 --> 00:00:10,160
+Her name was Goldilocks.
+她的名字是金发女孩
+
+4
+00:00:10,308 --> 00:00:12,554
+She had golden hair.
+她有一头金发
+
+5
+00:00:12,965 --> 00:00:15,994
+But she was not a nice girl.
+但是她不是一个好女孩
+
+6
+00:00:16,468 --> 00:00:20,662
+One day Goldilocks went for a walk in the forest.
+有一天   金发女孩在森林里散步
+
+7
+00:00:20,777 --> 00:00:23,866
+Pretty soon, she saw a house.
+很快   她看到了一个房子
+
+8
+00:00:24,400 --> 00:00:27,800
+Oh, look! There is a house!
+哦   看   那里有个房子
+

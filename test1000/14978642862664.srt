@@ -1,0 +1,45 @@
+﻿1
+00:00:00,000 --> 00:00:02,776
+Playing with Blocks
+玩积木
+
+2
+00:00:03,444 --> 00:00:09,185
+"Look at the house. I made it with the blocks," said Pam.
+看这房子   我用积木做的   帕姆说
+
+3
+00:00:09,680 --> 00:00:14,555
+"Look at the big wall. I made it with the blocks," Tim said.
+看大墙壁   我用积木做的   蒂姆说
+
+4
+00:00:15,176 --> 00:00:19,727
+Pam said, "Look at the road. I made it with the blocks."
+帕姆说   看马路   我用积木做的
+
+5
+00:00:19,720 --> 00:00:24,809
+"Look at this tunnel. I made it with the blocks," said Tim.
+看这个隧道   我用积木做的   蒂姆说
+
+6
+00:00:25,392 --> 00:00:29,703
+"Look! I made a bridge with the blocks," said Pam.
+看   我用积木做了一座桥   帕姆说
+
+7
+00:00:30,103 --> 00:00:35,087
+"I made a building with the blocks. Look at this building," Tim said.
+我用积木做了一幢楼   看这幢楼   蒂姆说
+
+8
+00:00:35,562 --> 00:00:38,828
+"We can make a big building," Pam said.
+我们可以做一幢大楼   帕姆说
+
+9
+00:00:39,665 --> 00:00:41,891
+Oh, no!
+噢   不
+

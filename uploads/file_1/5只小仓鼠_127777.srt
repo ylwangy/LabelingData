@@ -1,0 +1,25 @@
+﻿1
+00:00:00,800 --> 00:00:04,251
+One hamster wants to play.
+一只小仓鼠想要玩
+
+2
+00:00:07,542 --> 00:00:11,428
+Two hamsters shout hooray!
+两只小仓鼠大喊万岁
+
+3
+00:00:17,862 --> 00:00:21,211
+Three hamsters with a pear.
+三只小仓鼠有一只梨
+
+4
+00:00:30,971 --> 00:00:34,022
+Four hamsters in the air.
+四只小仓鼠在空中
+
+5
+00:00:39,245 --> 00:00:42,960
+Five hamsters playing nice.
+五只小仓鼠玩得很开心
+

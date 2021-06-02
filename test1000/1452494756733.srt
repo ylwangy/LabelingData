@@ -1,0 +1,30 @@
+﻿1
+00:00:09,344 --> 00:00:11,648
+It's a cake!
+一个蛋糕
+
+2
+00:00:12,832 --> 00:00:16,192
+I wonder what it's doing in a field, Happy.
+我想知道地上怎么会有一个蛋糕  Happy
+
+3
+00:00:20,352 --> 00:00:21,152
+Happy?
+Happy你去哪儿
+
+4
+00:00:31,232 --> 00:00:33,712
+Happy, you're eating the cake!
+Happy  你把蛋糕吃了
+
+5
+00:00:35,040 --> 00:00:36,864
+You can't eat that, Happy.
+你不能吃这个  Happy
+
+6
+00:00:36,860 --> 00:00:38,544
+It's someone else's cake!
+这是别人的蛋糕
+

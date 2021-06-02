@@ -1,0 +1,20 @@
+1
+00:00:03,542 --> 00:00:06,400
+If you take a mouse to school,
+如果你带一只老鼠去学校
+
+2
+00:00:10,742 --> 00:00:13,628
+he'll ask you for your lunchbox.
+他会要你的午餐盒
+
+3
+00:00:16,800 --> 00:00:19,171
+When you give him your lunchbox, 
+当你把午餐盒给他以后   
+
+4
+00:00:19,180 --> 00:00:21,371
+he'll want a sandwich.
+他会要一个三明治
+

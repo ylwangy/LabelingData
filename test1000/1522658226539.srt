@@ -1,0 +1,68 @@
+﻿1
+00:00:00,388 --> 00:00:01,725
+Follow Me
+
+2
+00:00:02,137 --> 00:00:04,994
+Read the passage and answer this question:
+
+3
+00:00:05,257 --> 00:00:07,680
+Are there any buildings in the park?
+
+4
+00:00:09,497 --> 00:00:13,268
+Mother duck and her children are having a trip in the nature park.
+
+5
+00:00:14,937 --> 00:00:17,291
+Children, follow me!
+
+6
+00:00:17,942 --> 00:00:21,508
+Mum, is there a path to the mountain?
+
+7
+00:00:21,760 --> 00:00:25,062
+Yes, there is. Please follow me up.
+
+8
+00:00:25,828 --> 00:00:29,040
+Mum, is there a river over there?
+
+9
+00:00:29,725 --> 00:00:33,428
+Yes, there is. Please follow me down.
+
+10
+00:00:33,977 --> 00:00:37,645
+Mum, is there a bridge over the river?
+
+11
+00:00:38,137 --> 00:00:42,125
+Yes, there is. Please follow me over.
+
+12
+00:00:42,960 --> 00:00:47,942
+Mum, we are hot. Are there any trees in the park?
+
+13
+00:00:48,720 --> 00:00:52,228
+Yes, there are. Follow me under.
+
+14
+00:00:53,325 --> 00:00:56,605
+Mum, is there a lake in the park?
+
+15
+00:00:56,994 --> 00:01:00,320
+Yes, there is. Follow me in.
+
+16
+00:01:00,868 --> 00:01:03,657
+Haha, so cool!
+
+17
+00:01:04,354 --> 00:01:08,560
+Children, follow me out. Now follow me home.
+

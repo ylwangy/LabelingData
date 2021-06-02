@@ -1,0 +1,15 @@
+﻿1
+00:00:01,546 --> 00:00:05,395
+When the bell rings, he'll run out to wait for the bus.
+当下课铃响了以后   他就会跑到外面去等公交车
+
+2
+00:00:08,444 --> 00:00:11,893
+While he's waiting, he'll play a quick game of soccer.
+在他等的时候   他会快速地玩一会足球
+
+3
+00:00:16,035 --> 00:00:18,666
+Then he'll ask you to shoot a few baskets.
+然后他还会让你投几个篮
+

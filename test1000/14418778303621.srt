@@ -1,0 +1,50 @@
+﻿1
+00:00:00,266 --> 00:00:03,733
+I saw a frog, I saw a dog.
+我看到了一只青蛙   我看到了一只狗
+
+2
+00:00:04,266 --> 00:00:10,288
+I saw that frog, and I saw that dog dance on a log.
+我看到那只青蛙   和那只狗在一截断木上跳舞
+
+3
+00:00:10,666 --> 00:00:14,511
+I saw a bear, I saw a chair.
+我看到一只熊   我看到一把椅子
+
+4
+00:00:14,844 --> 00:00:19,311
+I saw that bear sit on that chair.
+我看到一只熊坐在椅子上
+
+5
+00:00:19,600 --> 00:00:21,200
+What did I see today?
+我今天看到了什么呢
+
+6
+00:00:21,311 --> 00:00:25,955
+Well, I saw a cat and a bat on a mat,
+总之   我看到一只猫和一只蝙蝠坐在垫子上
+
+7
+00:00:26,600 --> 00:00:29,133
+a dog and a frog on a log,
+一只狗和一只青蛙在一截断木上
+
+8
+00:00:29,488 --> 00:00:31,400
+a bear on a chair.
+一只熊在椅子上
+
+9
+00:00:31,644 --> 00:00:35,066
+Thanks for listening, it was an amazing day.
+感谢聆听   这是奇妙的一天
+
+10
+00:00:35,222 --> 00:00:36,422
+Bye.
+再见咯
+

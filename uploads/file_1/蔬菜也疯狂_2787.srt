@@ -1,0 +1,55 @@
+1
+00:00:05,647 --> 00:00:07,642
+Oh, hello there, carrot.
+嗨  胡萝卜
+
+2
+00:00:07,665 --> 00:00:08,757
+Hello, John!
+嗨  约翰
+
+3
+00:00:08,776 --> 00:00:10,070
+Where are the others?
+其他人呢
+
+4
+00:00:10,084 --> 00:00:11,863
+They are coming, John.
+他们马上就来了  约翰
+
+5
+00:00:12,216 --> 00:00:14,992
+Ah, there you are, my friends.
+啊  你们来了  我的朋友们
+
+6
+00:00:15,011 --> 00:00:16,160
+Hello, John.
+嗨  约翰
+
+7
+00:00:16,180 --> 00:00:20,790
+Well, now that you are all here, I've written a new song for you, my friends.
+好  现在人都到齐了  我为你们写了首新歌  我的朋友们
+
+8
+00:00:20,804 --> 00:00:21,934
+Oh, good, John.
+哇  太好了  约翰
+
+9
+00:00:21,943 --> 00:00:23,727
+Let us hear the song, John.
+我们一起来听歌吧  约翰
+
+10
+00:00:23,736 --> 00:00:25,962
+Yes, let us hear the song, John.
+是的  我们来听歌啊
+
+11
+00:00:25,981 --> 00:00:28,809
+OK, my friends, here it goes.
+好的  我的朋友们  我们开始听歌吧
+

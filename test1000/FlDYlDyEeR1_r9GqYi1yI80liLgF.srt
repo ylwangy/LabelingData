@@ -1,0 +1,55 @@
+﻿1
+00:00:00,293 --> 00:00:02,040
+Sing with me
+跟我唱
+
+2
+00:00:02,533 --> 00:00:04,493
+Humpty Dumpty
+鸡蛋男孩
+
+3
+00:00:07,160 --> 00:00:09,653
+Humpty Dumpty sat on the wall.
+矮胖子  坐墙头
+
+4
+00:00:09,773 --> 00:00:12,320
+Humpty Dumpty had a great fall.
+栽了一个大跟斗
+
+5
+00:00:12,560 --> 00:00:15,066
+All the king’s horses And all the king’s men
+国王呀  齐兵马
+
+6
+00:00:15,213 --> 00:00:17,866
+Couldn’t put Humpty together again.
+破蛋难圆没办法
+
+7
+00:00:17,973 --> 00:00:20,426
+Humpty Dumpty sat on the wall.
+矮胖子  坐墙头
+
+8
+00:00:20,506 --> 00:00:22,986
+Humpty Dumpty had a great fall.
+栽了一个大跟斗
+
+9
+00:00:23,026 --> 00:00:24,266
+All the king’s horses
+国王呀
+
+10
+00:00:24,280 --> 00:00:25,786
+And all the king’s men
+齐兵马
+
+11
+00:00:25,933 --> 00:00:29,026
+Couldn’t put Humpty together again.
+破蛋难圆没办法
+

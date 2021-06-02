@@ -1,0 +1,35 @@
+﻿1
+00:00:01,017 --> 00:00:04,297
+When it's summer, I put on my summer clothes.
+夏天的时候  我穿上我的夏装
+
+2
+00:00:05,268 --> 00:00:07,942
+When it's summer, I put on my T-shirt.
+夏天的时候  我穿上我的T恤
+
+3
+00:00:08,777 --> 00:00:12,045
+When it's summer, I put on my sunglasses.
+夏天的时候  我戴上我的太阳镜
+
+4
+00:00:12,731 --> 00:00:14,880
+These are not mine!
+这些不是我的
+
+5
+00:00:16,468 --> 00:00:19,005
+When it's summer, I put on my sunglasses.
+夏天的时候  我戴上我的太阳镜
+
+6
+00:00:20,628 --> 00:00:23,188
+When it's summer, I put on my shorts.
+夏天的时候  我穿上我的短裤
+
+7
+00:00:25,234 --> 00:00:28,000
+When it's summer, I put on my flip flops.
+夏天的时候  我穿上我的人字拖
+

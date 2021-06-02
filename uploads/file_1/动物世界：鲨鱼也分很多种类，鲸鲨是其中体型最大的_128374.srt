@@ -1,0 +1,25 @@
+﻿1
+00:00:01,702 --> 00:00:04,297
+There are lots of different sharks.
+鲨鱼有很多种类
+
+2
+00:00:07,782 --> 00:00:10,502
+Whale sharks are the biggest shark.
+鲸鲨是体型最大的鲨鱼
+
+3
+00:00:13,382 --> 00:00:15,600
+They open their mouth really wide,
+它们能把嘴巴张的很大
+
+4
+00:00:15,657 --> 00:00:18,434
+and eat lots of tiny plankton and krill. 
+以大量的浮游生物和磷虾为食
+
+5
+00:00:21,800 --> 00:00:26,525
+Whale sharks move relatively slow compared to other sharks.
+相对于其它种类的鲨鱼  鲸鲨游动得比较慢
+

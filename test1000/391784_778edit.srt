@@ -1,0 +1,49 @@
+﻿1
+00:00:05,325 --> 00:00:06,240
+Nice mood.
+气氛不错
+
+2
+00:00:07,805 --> 00:00:09,474
+Hey, you like Italian, right?
+你喜欢意大利菜对吧
+
+3
+00:00:09,500  --> 00:00:12,191
+Have you ever been to La Ciccia?
+你去过拉齐恰饭店吗
+
+4
+00:00:14,057 --> 00:00:15,417
+Food's too salty.
+饭菜太咸
+
+5
+00:00:17,474 --> 00:00:21,131
+Well, I heard they brought in a new chef all the way from Sicily.
+我听说他们大老远地从西西里岛请来了一位新主厨
+
+6
+00:00:21,222 --> 00:00:22,457
+Brand new tasting menu.
+全新的品尝菜单
+
+7
+00:00:22,460 --> 00:00:24,754
+I could make us a reservation.
+我可以去订个位
+
+8
+00:00:25,782 --> 00:00:27,680
+Kinda over Sicilian.
+已经吃腻西西里菜了
+
+9
+00:00:28,674 --> 00:00:30,308
+Well, what about Acquerello?
+那阿卡瑞拉饭店呢
+
+10
+00:00:31,050 --> 00:00:32,840
+Hard pass on anything "acqua"
+任何跟水相关的都不必了

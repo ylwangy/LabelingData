@@ -1,0 +1,39 @@
+﻿1
+00:00:01,660 --> 00:00:05,180
+Indeed, I fear I was mistaken.
+的确  我恐怕弄错了
+
+2
+00:00:07,560 --> 00:00:10,210
+This man is Jean Valjean.
+这个人才是冉·阿让
+
+3
+00:00:23,690  --> 00:00:26,110
+And now, before the court...
+现在在法庭上
+
+4
+00:00:28,410 --> 00:00:31,440
+..I confess to the robbery of this 40 sous...
+我承认这40苏是我
+
+5
+00:00:33,590 --> 00:00:35,740
+..from the child known as Petit-Gervais.
+从一个叫小瑞尔威的孩子手上抢来的
+
+6
+00:00:42,040 --> 00:00:43,170
+Monsieur le Maire,
+市长先生
+
+7
+00:00:43,640 --> 00:00:47,620
+will you surrender yourself to the custody of Inspector Javert?
+你是否接受沙威督察的逮捕
+
+8
+00:00:49,530 --> 00:00:51,290
+- Willingly. - Cuffs!
+-心甘情愿  -手铐

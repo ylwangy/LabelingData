@@ -1,0 +1,34 @@
+﻿1
+00:00:00,000 --> 00:00:02,100
+Then she pressed a button on her watch. 
+然后她按下了手表上的按钮
+
+2
+00:00:02,880 --> 00:00:04,600
+A small screen blinked on. 
+一个小屏幕闪现出来
+
+3
+00:00:05,260 --> 00:00:07,800
+Mayor Bloom, the mayor of Metro City, appeared. 
+布鲁姆   新都城的市长   出现了
+
+4
+00:00:07,980  --> 00:00:10,140
+He didn't look happy. 
+他看上去不太高兴
+
+5
+00:00:10,720 --> 00:00:12,920
+"What's wrong, Mayor?" asked Roxy. 
+怎么了市长   罗茜问道
+
+6
+00:00:13,740 --> 00:00:17,920
+"A strange object landed at Mr. Mann's farm," said Mayor Bloom. 
+一个奇怪的东西降落在了曼先生的农场   市长布鲁姆说道
+
+7
+00:00:18,180  --> 00:00:20,676
+We think it might be a spaceship."
+我们认为这可能是一艘宇宙飞船

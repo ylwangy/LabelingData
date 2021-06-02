@@ -1,0 +1,40 @@
+﻿1
+00:00:02,100 --> 00:00:03,620
+Ahoy, Jasper.
+啊嘿  Jasper
+
+2
+00:00:03,660 --> 00:00:04,980
+Ahoy, Emma.
+啊嘿  Emma
+
+3
+00:00:05,020 --> 00:00:09,000
+What are you doing there? Let's go to the play ground.
+你干嘛呢   我们一起去操场吧
+
+4
+00:00:09,260 --> 00:00:11,360
+Oh,ok.
+哦 好啊
+
+5
+00:00:12,120 --> 00:00:14,580
+Jasper? What's the matter?
+Jasper 你怎么了
+
+6
+00:00:16,120 --> 00:00:17,240
+My feet.
+我的脚
+
+7
+00:00:18,140 --> 00:00:23,960
+Oh,no, is that from the sun? You haven't got any shoes.
+哦 不 是因为太阳吗 你没有鞋穿啊
+
+8
+00:00:24,320 --> 00:00:25,080
+Mm-hmm.
+嗯嗯
+

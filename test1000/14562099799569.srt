@@ -1,0 +1,30 @@
+﻿1
+00:00:00,630 --> 00:00:02,540
+This is the sun.
+这是太阳
+
+2
+00:00:02,610 --> 00:00:04,450
+The sun is hot.
+太阳很热
+
+3
+00:00:04,740 --> 00:00:08,170
+Do you see the cloud and the rain?
+你看到云和雨了吗
+
+4
+00:00:08,280 --> 00:00:10,190
+Look at the wind.
+看这风
+
+5
+00:00:10,510 --> 00:00:15,460
+This is snow. Snow is cold and white.
+这是雪  雪又冷又白
+
+6
+00:00:15,620 --> 00:00:19,450
+I like rain and snow. What about you?
+我喜欢雨和雪  你呢
+

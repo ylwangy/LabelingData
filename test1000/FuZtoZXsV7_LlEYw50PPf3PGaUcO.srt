@@ -1,0 +1,40 @@
+﻿1
+00:00:01,813 --> 00:00:06,266
+Hello, Gompers, I am Geronimo Stilton.
+
+2
+00:00:06,346 --> 00:00:08,133
+How are you today?
+
+3
+00:00:08,373 --> 00:00:11,573
+Well, hi, guys.
+
+4
+00:00:11,920 --> 00:00:14,666
+Whoa, this is amazing.
+
+5
+00:00:14,826 --> 00:00:19,573
+Congratulations, professor, this is incredible and should help...
+
+6
+00:00:19,653 --> 00:00:23,026
+Hey, could I ask you a favor?
+
+7
+00:00:23,146 --> 00:00:27,760
+-Um, sure, go ahead. -The big guy, over there...?
+
+8
+00:00:27,840 --> 00:00:29,600
+Trap? What about him?
+
+9
+00:00:29,706 --> 00:00:35,266
+Tell him to stop stealing my food. Hi! You hear me? Stop eating my flakes.
+
+10
+00:00:35,373 --> 00:00:37,413
+Stop. He's doing it right now.
+

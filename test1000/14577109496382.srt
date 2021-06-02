@@ -1,0 +1,30 @@
+﻿1
+00:00:00,432 --> 00:00:04,464
+A mouse took a stroll through the deep dark woods.
+一只老鼠在树丛中漫步
+
+2
+00:00:06,016 --> 00:00:09,696
+A fox saw the mouse and the mouse look good.
+一只狐狸看到了它   觉得老鼠很美味哦
+
+3
+00:00:10,320 --> 00:00:13,648
+Where are you going to? Little brown mouse?
+棕色的小老鼠   你要去哪儿呀
+
+4
+00:00:14,112 --> 00:00:16,960
+Come and have lunch in my underground house.
+来我地底下的家吃顿午餐吧
+
+5
+00:00:19,520 --> 00:00:24,464
+It's terribly kind of you, Fox. But no .
+狐狸   你真好   但是不行哦
+
+6
+00:00:24,512 --> 00:00:28,352
+I'm going to have lunch with a gruffalo.
+我约好和咕噜牛一起吃午饭
+

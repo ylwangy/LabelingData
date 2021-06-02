@@ -1,0 +1,25 @@
+﻿1
+00:00:01,660 --> 00:00:03,300
+I'll write.
+我会写
+
+2
+00:00:03,640 --> 00:00:05,860
+I'll write it down.
+我会写下来
+
+3
+00:00:06,000 --> 00:00:08,460
+I'll write it down on the paper.
+我会写在纸上
+
+4
+00:00:08,700 --> 00:00:12,680
+I'll write it down on the paper to remind her.
+我会写在纸上提醒她
+
+5
+00:00:12,860 --> 00:00:18,280
+I'll write it down on the paper to remind her not to forget.
+我会写在纸上提醒她不要忘记
+

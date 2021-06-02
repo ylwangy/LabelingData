@@ -1,0 +1,30 @@
+﻿1
+00:00:00,240 --> 00:00:04,540
+Listen, Mrs Big Nose, who are you and what do you eat?
+嘿   大鼻子太太   你是谁   你吃什么
+
+2
+00:00:05,080 --> 00:00:08,020
+I'm a koala and I eat leaves.
+我是考拉   我吃树叶
+
+3
+00:00:08,100 --> 00:00:12,480
+Well, I'm a big-wide-mouth frog and I eat flies.
+好吧   我是大嘴青蛙   我吃苍蝇
+
+4
+00:00:23,660 --> 00:00:28,200
+Hey! Brown log, who are you and what do you eat?
+嘿   棕色木头   你是谁   你吃什么
+
+5
+00:00:28,420 --> 00:00:32,420
+I'm Mike. I'm a croc and I eat big-wide-mouth frog.
+我是迈克   我是一只鳄鱼   我吃大嘴青蛙
+
+6
+00:00:32,460 --> 00:00:33,680
+I'm off!
+我走啦
+

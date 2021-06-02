@@ -1,0 +1,50 @@
+﻿1
+00:00:00,160 --> 00:00:05,846
+Green Frog, Green Frog, what do you see?
+青蛙 青蛙 你看见了什么
+
+2
+00:00:06,898 --> 00:00:11,926
+I see a purple cat looking at me.
+我看见了一只紫猫正在看我
+
+3
+00:00:14,061 --> 00:00:19,052
+Purple Cat, Purple Cat, what do you see?
+紫猫 紫猫 你看见了什么
+
+4
+00:00:20,116 --> 00:00:25,360
+I see a white dog looking at me.
+我看见了一只白狗正在看我
+
+5
+00:00:27,575 --> 00:00:33,864
+White Dog, White Dog, what do you see?
+白狗 白狗 你看见了什么
+
+6
+00:00:34,904 --> 00:00:40,344
+I see a black sheep looking at me.
+我看见了一只黑羊正在看我
+
+7
+00:00:42,178 --> 00:00:47,858
+Black Sheep, Black Sheep, what do you see?
+黑羊 黑羊 你看见了什么
+
+8
+00:00:48,652 --> 00:00:54,086
+I see a goldfish looking at me.
+我看见了一条金鱼正在看我
+
+9
+00:00:55,821 --> 00:01:01,027
+Goldfish, Goldfish, what do you see?
+金鱼 金鱼 你看见了什么
+
+10
+00:01:03,101 --> 00:01:07,396
+I see a teacher looking at me.
+我看见了一位老师正在看我
+

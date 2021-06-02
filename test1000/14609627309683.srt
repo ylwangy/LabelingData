@@ -1,0 +1,25 @@
+﻿1
+00:00:00,340 --> 00:00:05,680
+Mr. Mechanic is pleased to see Tiny made 1st place.
+梅凯尼克先生很高兴看到泰尼得了第一名
+
+2
+00:00:06,140 --> 00:00:11,060
+"See? Didn't I tell you that you are the best racecar?"
+看吧   我就说你是最好的赛车吧
+
+3
+00:00:11,860 --> 00:00:15,900
+"Mr. Mechanic, thanks to you I won!"
+梅凯尼克先生   多亏了你我才能赢
+
+4
+00:00:17,640 --> 00:00:21,500
+Now, the celebration for Tiny begins.
+现在   一个为泰尼举办的庆祝盛典开始了
+
+5
+00:00:22,640 --> 00:00:30,500
+"The new racecar champion for this year is...Tiny!"
+今年新的年度赛车冠军就是   泰尼
+

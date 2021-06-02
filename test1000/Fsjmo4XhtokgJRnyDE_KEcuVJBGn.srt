@@ -1,0 +1,10 @@
+﻿1
+00:00:02,450 --> 00:00:05,780
+Hey, the lights.They must have cut the power.
+嘿   那些灯 他们肯定切断了电源
+
+2
+00:00:05,880 --> 00:00:09,060
+But we've got our own Pika power source.
+但是我们有自己的后备皮卡电源
+

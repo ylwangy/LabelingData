@@ -1,0 +1,15 @@
+﻿1
+00:00:04,592 --> 00:00:06,096
+Blue Jay
+蓝雀
+
+2
+00:00:07,832 --> 00:00:12,784
+Blue Jay raises his crest and shrieks out to the flock,
+蓝雀张开羽冠 向鸟群尖叫
+
+3
+00:00:13,080 --> 00:00:16,520
+“Hawk incoming! Fight!”
+老鹰入侵  准备开战
+

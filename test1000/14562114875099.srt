@@ -1,0 +1,15 @@
+﻿1
+00:00:01,200 --> 00:00:03,744
+This is Niagara Falls.
+这是尼亚加拉大瀑布
+
+2
+00:00:04,016 --> 00:00:08,352
+Niagara Falls is a famous waterfall in Canada.
+尼亚加拉大瀑布是加拿大很有名的瀑布
+
+3
+00:00:08,624 --> 00:00:13,408
+This is the CN Tower in Canada. It's famous.
+这是加拿大的国家电视塔  它很有名
+

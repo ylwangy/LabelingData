@@ -1,0 +1,116 @@
+1
+00:00:00,000 --> 00:00:05,460
+Hello, this is Susan speaking. May I speak to Miss Lee?
+
+2
+00:00:05,700 --> 00:00:08,920
+Hello Susan, this is Miss Lee.
+
+3
+00:00:09,320 --> 00:00:13,460
+Hello Miss Lee, I can't come to school today.
+
+4
+00:00:13,560 --> 00:00:15,040
+What's the matter?
+
+5
+00:00:15,200 --> 00:00:18,160
+I have a cold and a fever.
+
+6
+00:00:18,340 --> 00:00:21,760
+I'm sorry to hear that. Take care Susan.
+
+7
+00:00:21,900 --> 00:00:23,660
+Thank you Miss Lee.
+
+8
+00:00:23,960 --> 00:00:26,860
+Hello, this is Miss Lee speaking.
+
+9
+00:00:27,000 --> 00:00:30,040
+Hello, Miss Lee, this is Susan.
+
+10
+00:00:30,320 --> 00:00:32,200
+How are you now?
+
+11
+00:00:32,300 --> 00:00:34,500
+I'm fine, thank you.
+
+12
+00:00:34,680 --> 00:00:38,420
+Great! Can you come to school tomorrow?
+
+13
+00:00:38,640 --> 00:00:40,240
+Yes I can.
+
+14
+00:00:40,480 --> 00:00:42,680
+See you tomorrow Susan.
+
+15
+00:00:42,840 --> 00:00:44,540
+See you, Miss Lee.
+
+16
+00:00:44,820 --> 00:00:49,600
+Hello this is Sam speaking, may I speak to Lily?
+
+17
+00:00:49,760 --> 00:00:53,820
+Hello Sam, this is Lilly, how are you?
+
+18
+00:00:53,960 --> 00:00:58,620
+Not so good. I have a cough and a headache.
+
+19
+00:00:58,880 --> 00:01:03,260
+Hello, this is Mike speaking, may I speak to Sam?
+
+20
+00:01:03,440 --> 00:01:07,140
+Hello Mike, this is Sam, how are you?
+
+21
+00:01:07,220 --> 00:01:09,140
+Not bad, thank you.
+
+22
+00:01:09,460 --> 00:01:12,340
+Hello, this is Bobby speaking.
+
+23
+00:01:12,480 --> 00:01:13,920
+Hello Bobby.
+
+24
+00:01:14,000 --> 00:01:16,420
+Hi Tina, is Mary there?
+
+25
+00:01:16,580 --> 00:01:19,180
+No, she's at school.
+
+26
+00:01:19,460 --> 00:01:22,100
+Hello, this is Bobby speaking.
+
+27
+00:01:22,220 --> 00:01:23,860
+Hello Bobby.
+
+28
+00:01:23,960 --> 00:01:27,020
+Hi, Miss Lee, is Mr. Lee there?
+
+29
+00:01:27,100 --> 00:01:29,640
+No, he's at work.
+

@@ -1,0 +1,30 @@
+﻿1
+00:00:06,594 --> 00:00:08,651
+These are postcards.
+这些是明信片
+
+2
+00:00:08,765 --> 00:00:11,508
+A postcard has a picture on it.
+明信片上面有图片
+
+3
+00:00:12,137 --> 00:00:13,920
+This is a letter.
+这是信
+
+4
+00:00:14,000 --> 00:00:16,662
+We write a letter on paper.
+我们在纸上写信
+
+5
+00:00:17,257 --> 00:00:19,382
+This is an email.
+这是电子邮件
+
+6
+00:00:19,485 --> 00:00:22,400
+We write an email on a computer.
+我们在电脑上写电子邮件
+

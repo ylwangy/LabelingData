@@ -1,0 +1,10 @@
+﻿1
+00:00:00,000 --> 00:00:03,760
+ This is the Pepsi that's back from "The Future"
+这是来自《未来》的百事可乐
+
+2
+00:00:04,080 --> 00:00:07,440
+and back for "One Last Ride".
+然后回到《最后一骑》
+

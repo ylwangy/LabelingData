@@ -1,0 +1,49 @@
+﻿1
+00:00:00,571 --> 00:00:01,820
+Hello, Miss Rabbit.
+你好  兔小姐
+
+2
+00:00:01,884 --> 00:00:04,524
+Hello. How many tickets, please?
+你们好  请问要几张票
+
+3
+00:00:04,595 --> 00:00:06,613
+Two grown-ups and two children.
+两个大人两个小孩
+
+4
+00:00:08,053 --> 00:00:10,648
+And one of fish, please.
+还有一条鱼
+
+5
+00:00:10,675 --> 00:00:11,964
+The fish goes free.
+鱼不要钱
+
+6
+00:00:12,124 --> 00:00:15,822
+Does the aquarium have every type of fish?
+水族馆里每种鱼都有吗
+
+7
+00:00:15,831 --> 00:00:18,160
+Oh, yes! Probably.
+哦是吧  可能吧
+
+8
+00:00:18,204 --> 00:00:22,044
+Good! We're looking for a friend for Goldie.
+很好  我们在给晶晶找一个朋友
+
+9
+00:00:22,115 --> 00:00:25,697
+Well, I hope you find one. Enjoy the aquarium.
+那我祝你们找到哦  玩的开心
+
+10
+00:00:25,724 --> 00:00:26,880
+Thank you!
+谢谢

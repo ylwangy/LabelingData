@@ -1,0 +1,35 @@
+﻿1
+00:00:05,600 --> 00:00:08,870
+Okay, I can't take one more second of this.
+好吧  我再也忍受不了了
+
+2
+00:00:09,066 --> 00:00:12,328
+Quack, I need to know what you're trying to say!
+夸克  我需要知道你要说什么
+
+3
+00:00:17,964 --> 00:00:20,924
+Peep, do you have any idea what Quack is saying?
+奇普  你知道夸克在说什么吗
+
+4
+00:00:21,351 --> 00:00:24,862
+Chirp, wouldn't it be easier if you asked Quack to talk?
+切帕  你直接请求夸克开口说话不是更简单点吗
+
+5
+00:00:27,048 --> 00:00:29,200
+Well, well...
+好吧  好吧
+
+6
+00:00:30,995 --> 00:00:32,906
+Okay, you can talk.
+你可以说话了
+
+7
+00:00:33,240 --> 00:00:34,110
+Go ahead.
+说吧
+

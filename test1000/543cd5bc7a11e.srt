@@ -1,0 +1,28 @@
+﻿1
+00:00:05,680 --> 00:00:07,868
+Tell me about your brother and sister, Sue.
+
+2
+00:00:08,037 --> 00:00:09,760
+Well, my sister is a lawyer.
+
+3
+00:00:09,840 --> 00:00:12,080
+Really? Does she live here in Seattle?
+
+4
+00:00:12,155 --> 00:00:18,211
+Yes, she does. But she's working in Washington, D. C. , right now. Her job is top secret.
+
+5
+00:00:18,536 --> 00:00:21,160
+Wow! And what does your brother do?
+
+6
+00:00:21,600 --> 00:00:26,287
+He's a painter. He's working in Argentina this month. He has an exhibition there.
+
+7
+00:00:26,480 --> 00:00:28,400
+What an interesting family!
+

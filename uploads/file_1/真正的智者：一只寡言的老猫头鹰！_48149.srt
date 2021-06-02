@@ -1,0 +1,25 @@
+﻿1
+00:00:04,616 --> 00:00:07,160
+A Wise Old Owl
+老猫头鹰
+
+2
+00:00:08,424 --> 00:00:11,416
+A wise old owl lived in an oak
+橡树里  住着一只聪慧的老猫头鹰
+
+3
+00:00:11,560 --> 00:00:14,904
+The more he saw the less he spoke
+见的越多  说的越少
+
+4
+00:00:15,192 --> 00:00:18,896
+The less he spoke the more he heard.
+说的越少  听的越多
+
+5
+00:00:19,056 --> 00:00:23,792
+Why can’t we all be like that wise old bird?
+我们为什么不能像他一样呢
+

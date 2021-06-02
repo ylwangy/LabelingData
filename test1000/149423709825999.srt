@@ -1,0 +1,50 @@
+﻿1
+00:00:00,000 --> 00:00:03,280
+Excuse me, how can I get to the Bell Tower?
+打扰一下   我怎么去钟塔
+
+2
+00:00:03,696 --> 00:00:05,184
+You can go with me.
+你可以跟我走
+
+3
+00:00:05,520 --> 00:00:09,824
+Thank you. Xi'an is really a beautiful city.
+谢谢你   西安真是一个美丽的城市
+
+4
+00:00:10,144 --> 00:00:13,648
+Yes. Do you live in the city, too?
+是的   你也住在这座城市里吗
+
+5
+00:00:14,096 --> 00:00:17,968
+no . I live in a village far from the city.
+不   我住在离这座城市很远的一个村庄里
+
+6
+00:00:18,416 --> 00:00:19,984
+Is your village big?
+你的村庄大吗
+
+7
+00:00:20,464 --> 00:00:24,480
+no . It is small, but very beautiful.
+不   它很小   但非常漂亮
+
+8
+00:00:25,280 --> 00:00:32,752
+In April and May, there are many kinds of flowers around.
+在四月和五月   四周有很多种花儿
+
+9
+00:00:33,264 --> 00:00:36,864
+In September and October, we have many fruits.
+在九月和十月   我们有很多水果
+
+10
+00:00:37,056 --> 00:00:39,040
+It sounds very nice.
+听起来很不错
+

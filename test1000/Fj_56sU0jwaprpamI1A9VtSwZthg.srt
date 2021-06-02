@@ -1,0 +1,70 @@
+﻿1
+00:00:02,829 --> 00:00:05,620
+Hello. I am Baymax.
+你好   我是大白
+
+2
+00:00:05,680 --> 00:00:07,950
+Your personal health care companion.
+你的私人健康助理
+
+3
+00:00:08,065 --> 00:00:11,300
+Where did you come from, Bay...max?
+你从哪里来   大   白
+
+4
+00:00:11,320 --> 00:00:13,680
+I heard a sound of distress.
+我从你的声音里听出了焦虑
+
+5
+00:00:13,740 --> 00:00:15,350
+What seems to be the trouble?
+有什么问题
+
+6
+00:00:15,400 --> 00:00:16,970
+Umm... Nothing nothing.
+嗯   没什么   没事
+
+7
+00:00:16,980 --> 00:00:19,110
+A little rock just fell on my head. I'm fine.
+一个小石头掉我头上了  没事
+
+8
+00:00:19,120 --> 00:00:22,860
+On a scale of 1 to 10, how would you rate your pain?
+1到10这十个等级   你的疼痛是几级
+
+9
+00:00:22,890 --> 00:00:23,920
+What is this?
+什么鬼
+
+10
+00:00:23,950 --> 00:00:27,390
+On a scale of 1 to 10, how would you rate your pain?
+1到10这十个等级   你的疼痛是几级
+
+11
+00:00:27,400 --> 00:00:29,400
+I already told you. I'm fine, really.
+我已经告诉你了   我没事   真的
+
+12
+00:00:29,450 --> 00:00:33,020
+On a scale of 1 to 10, how would you rate your pain?
+1到10这十个等级   你的疼痛是几级
+
+13
+00:00:33,060 --> 00:00:35,710
+Zero. Does it hurt when I touch it?
+零级  我摸一下   疼不疼
+
+14
+00:00:35,720 --> 00:00:37,710
+No, it's OK. I'm fine.
+不疼   没事   我很好
+

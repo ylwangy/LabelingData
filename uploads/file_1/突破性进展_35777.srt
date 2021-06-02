@@ -1,0 +1,45 @@
+﻿1
+00:00:00,100 --> 00:00:02,980
+3, 4, 5, 6.
+3, 4, 5, 6.
+
+2
+00:00:04,020 --> 00:00:06,580
+Your wife is gonna be beautiful.
+你会有个漂亮的老婆
+
+3
+00:00:06,680 --> 00:00:07,300
+Yes!
+太好了
+
+4
+00:00:07,360 --> 00:00:09,640
+Mabel, big break in the case!
+Mabel 案件有大突破哦
+
+5
+00:00:09,720 --> 00:00:11,520
+But will she love me?
+但她会爱我吗
+
+6
+00:00:11,580 --> 00:00:14,980
+It's a left handed ax. These are all our suspects. 
+这是个左手握的斧头   这些是嫌疑人
+
+7
+00:00:15,000 --> 00:00:20,580
+Manly Dan is right handed, that means all we gotta do is find our left handed suspect and we've got our killer.
+Manly Dan是右撇子   也就是说我们只需要找到左撇子的嫌犯就可以抓到凶手了
+
+8
+00:00:20,620 --> 00:00:25,320
+Oh man, we are on fire today! Pazaw, Pazaw, Pazaw!
+哦兄弟   我们今天太棒了
+
+9
+00:00:25,360 --> 00:00:27,440
+Let's find that murderer.
+我们去找凶手吧
+

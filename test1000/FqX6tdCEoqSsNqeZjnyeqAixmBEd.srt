@@ -1,0 +1,25 @@
+﻿1
+00:00:01,380 --> 00:00:03,260
+I eat apples. 
+我吃苹果
+
+2
+00:00:04,020 --> 00:00:06,700
+I eat apples every day.
+我每天吃苹果
+
+3
+00:00:07,640 --> 00:00:10,360
+I eat two apples every day.
+我每天吃两个苹果
+
+4
+00:00:11,080 --> 00:00:15,120
+I eat two apples after lunch every day.
+我每天午饭后吃两个苹果
+
+5
+00:00:15,840 --> 00:00:20,740
+I eat two big apples after lunch every day.
+我每天午饭后吃两个大苹果
+

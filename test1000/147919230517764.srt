@@ -1,0 +1,70 @@
+﻿1
+00:00:00,000 --> 00:00:02,992
+What's the date today, Ann?
+安   今天是几月几日
+
+2
+00:00:03,648 --> 00:00:06,544
+It's May 31st.
+是5月31日
+
+3
+00:00:07,280 --> 00:00:13,808
+Oh, tomorrow is June 1st. It's Children's Day.
+哦   明天是6月1日   到儿童节了
+
+4
+00:00:14,560 --> 00:00:19,632
+Yes. I want to make some cards for my friends.
+是的   我想给我的朋友做些卡片
+
+5
+00:00:19,824 --> 00:00:23,024
+Good idea. Can I join you?
+好主意   我能和你一起吗
+
+6
+00:00:23,152 --> 00:00:24,704
+Certainly.
+当然可以
+
+7
+00:00:26,800 --> 00:00:28,704
+What was the date yesterday?
+昨天是几月几日
+
+8
+00:00:29,024 --> 00:00:34,608
+Yesterday was April 11th. It was my birthday.
+昨天是4月11日   是我的生日
+
+9
+00:00:34,816 --> 00:00:36,608
+How old are you?
+你多大了
+
+10
+00:00:36,704 --> 00:00:40,032
+I'm twelve. What about you?
+我12岁   你呢
+
+11
+00:00:40,176 --> 00:00:42,320
+I'm twelve, too.
+我也12岁
+
+12
+00:00:42,480 --> 00:00:47,488
+We are the same age. When is your birthday?
+我们同岁   你生日是哪天
+
+13
+00:00:47,696 --> 00:00:49,312
+It's in May.
+在五月
+
+14
+00:00:49,440 --> 00:00:51,984
+Then I am older than you.
+那么我比你大
+

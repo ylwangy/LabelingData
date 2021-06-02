@@ -1,0 +1,25 @@
+﻿1
+00:00:00,371 --> 00:00:02,285
+Failure in a Test
+考试不及格
+
+2
+00:00:03,314 --> 00:00:07,914
+Why did you get such a low mark on that test?
+这次测试你为什么得这么低的分
+
+3
+00:00:08,142 --> 00:00:10,142
+Because of absence.
+因为缺考
+
+4
+00:00:10,628 --> 00:00:14,342
+You mean you were absent on the day of the test?
+你的意思是考试那天你没去
+
+5
+00:00:14,857 --> 00:00:18,428
+No, but the kid who sits next to me was.
+不是  是坐在我旁边的孩子没来
+

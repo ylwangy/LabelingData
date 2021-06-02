@@ -1,0 +1,50 @@
+﻿1
+00:00:00,186 --> 00:00:03,713
+Hello, Isabel. I'm so glad you could come.
+您好 伊莎贝尔 我很高兴你能来
+
+2
+00:00:03,840 --> 00:00:06,306
+Welcome! Let me take your coat.
+欢迎 我来拿你的大衣
+
+3
+00:00:06,433 --> 00:00:09,700
+Thanks. I brought a bottle of wine and some dessert.
+谢谢 我带了一瓶红酒和一些甜点
+
+4
+00:00:09,780 --> 00:00:11,520
+I hope you like red wine.
+我希望你喜欢红葡萄酒
+
+5
+00:00:11,593 --> 00:00:14,306
+Thank you! We love red wine.
+谢谢您 我们喜欢红葡萄酒
+
+6
+00:00:14,386 --> 00:00:16,946
+In fact, we can have some now before dinner.
+事实上 我们可以在晚饭前喝一点
+
+7
+00:00:16,980 --> 00:00:19,213
+And this cake looks delicious.
+这蛋糕看起来好吃
+
+8
+00:00:19,253 --> 00:00:21,420
+It's from the new bakery in town.
+这是从镇上新的面包店买来的
+
+
+9
+00:00:20,993 --> 00:00:22,760
+I've heard the desserts are amazing!
+我听说那的甜品非常棒  
+
+10
+00:00:22,826 --> 00:00:24,800
+Yes, what a treat!
+是的 多好的一份礼物啊

@@ -1,0 +1,5 @@
+﻿1
+00:00:00,000 --> 00:00:05,424
+Remember, with great power, comes great responsiblity.
+记住  能力越大  责任越大
+

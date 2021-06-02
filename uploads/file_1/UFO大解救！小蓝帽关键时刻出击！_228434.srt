@@ -1,0 +1,25 @@
+﻿1
+00:00:01,702 --> 00:00:03,968
+​Are you okay, Mr. Alien?
+你还好吗   外星人先生
+
+2
+00:00:04,422 --> 00:00:07,951
+Well, I am, but my ship is all broken.
+我还好   但是我的飞船坏了
+
+3
+00:00:08,160 --> 00:00:10,964
+Now I can't get home anymore.
+这样我再也回不了家了
+
+4
+00:00:11,160 --> 00:00:12,915
+We can take you there.
+我们可以带你去
+
+5
+00:00:13,253 --> 00:00:16,351
+Morphle, morph into a spaceship.
+Morphle   变成一艘宇宙飞船
+

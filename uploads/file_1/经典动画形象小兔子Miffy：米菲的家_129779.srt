@@ -1,0 +1,10 @@
+﻿1
+00:00:02,960 --> 00:00:05,240
+Miffy at the seaside.
+米菲在海边 
+
+2
+00:00:11,660 --> 00:00:14,580
+The rabbit family live close to the sea.
+小兔子一家离海很近
+

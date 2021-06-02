@@ -1,0 +1,44 @@
+﻿1
+00:00:00,180  --> 00:00:02,630
+Good evening, ma'am. I'm sorry to bother you at this hour.
+晚上好  女士  抱歉深夜叨扰
+
+2
+00:00:02,731 --> 00:00:04,230
+Is your husband home?
+你丈夫在家吗
+
+3
+00:00:06,502 --> 00:00:10,110
+Officer Reeves, I'm Nelson Gardner, sir.
+里弗斯警员  我是尼尔森·加登纳
+
+4
+00:00:10,194 --> 00:00:11,420
+Pleasure to meet you.
+幸会
+
+5
+00:00:12,860 --> 00:00:15,440
+This is my wife, June.
+这位是我的妻子  朱恩
+
+6
+00:00:15,680 --> 00:00:18,228
+Mrs. Reeves. If you don't mind excusing us,
+里弗斯太太  你能回避一下吗
+
+7
+00:00:18,330 --> 00:00:21,165
+I'm hoping to discuss some business with your--
+我想和你丈夫谈点正事
+
+8
+00:00:21,330 --> 00:00:22,670
+Business!
+正事啊
+
+9
+00:00:25,420  --> 00:00:28,406
+How can I help you, Mr. Gardner?
+有何贵干  加登纳先生

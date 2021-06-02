@@ -1,0 +1,30 @@
+﻿1
+00:00:09,977 --> 00:00:14,925
+1. We mustn't eat or drink in class.
+一   我们不能在课堂上吃东西
+
+2
+00:00:18,571 --> 00:00:22,708
+2. We mustn't be late for class.
+二   我们上课不能迟到
+
+3
+00:00:26,228 --> 00:00:31,920
+3. We can't walk on the grass in the school garden.
+三   我们不能踩学校花园里的草地
+
+4
+00:00:35,462 --> 00:00:40,742
+4. We must speak English in our English classes.
+四   英语课上我们必须说英语
+
+5
+00:00:43,805 --> 00:00:48,914
+5. We mustn't draw pictures on our desks.
+五   我们不能在书桌上刻画
+
+6
+00:00:52,411 --> 00:00:58,068
+6. We must clean the blackboard before each class.
+六   我们在课前必须把黑板擦干净
+

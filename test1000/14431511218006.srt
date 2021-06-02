@@ -1,0 +1,20 @@
+﻿1
+00:00:02,960 --> 00:00:06,060
+Fisherman, what is it that you want?
+渔夫   你想要什么呢
+
+2
+00:00:06,740 --> 00:00:09,320
+Please give my wife a new house.
+请赐给我妻子一间新房子吧
+
+3
+00:00:10,360 --> 00:00:13,840
+Your wish is granted. Now go home.
+我实现你的愿望   现在回家吧
+
+4
+00:00:19,220 --> 00:00:23,380
+When the fisherman got home, he saw a nice new house.
+当渔夫回到家   他看见了一间漂亮的新房子
+

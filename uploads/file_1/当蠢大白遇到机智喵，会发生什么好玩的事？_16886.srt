@@ -1,0 +1,50 @@
+1
+00:00:02,220 --> 00:00:07,080
+Hello. I am Baymax, your personal healthcare companion.
+你好   我叫大白   你的私人健康助理
+
+2
+00:00:09,180 --> 00:00:12,440
+Would you like a hug? Babababa.
+要抱抱吗   吧吧吧吧
+
+3
+00:00:12,460 --> 00:00:15,060
+My hands are equipped with defibrillators.
+我的手臂上装有减震器
+
+4
+00:00:16,240 --> 00:00:17,100
+Clear.
+好了
+
+5
+00:00:18,260 --> 00:00:22,020
+On a scale of 1 to 10, how would you rate your pain?
+从1级到10级   你的疼痛等级是多少
+
+6
+00:00:22,060 --> 00:00:24,460
+Hello. I am Baymax.
+你好   我叫大白
+
+7
+00:00:24,480 --> 00:00:28,100
+Always wait one hour after eating before swimming.
+饭后一个小时以后再游泳
+
+8
+00:00:28,180 --> 00:00:29,700
+You will be alright.
+你会好起来的
+
+9
+00:00:29,960 --> 00:00:31,220
+There, there.
+乖啊   乖啊
+
+10
+00:00:31,300 --> 00:00:33,260
+Babababa.
+吧吧吧吧
+

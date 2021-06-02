@@ -1,0 +1,25 @@
+﻿1
+00:00:02,595 --> 00:00:03,920
+What's that thing?
+那是什么
+
+2
+00:00:11,813 --> 00:00:15,715
+Oh, wow, look at this gorgeous forest.
+哇噻   看这片茂盛的森林
+
+3
+00:00:15,770 --> 00:00:21,020
+My world! Nothing better than chopping down trees.
+我的天   没什么比砍树更好的事情了
+
+4
+00:00:24,420 --> 00:00:28,680
+Sorry, you are out of our service range.so you obviously are receiving your sig...
+对不起   您不在服务区  所以很明显你在接收
+
+5
+00:00:28,780 --> 00:00:32,180
+No signal? Ha!
+没有信号   哈
+

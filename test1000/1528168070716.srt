@@ -1,0 +1,29 @@
+﻿1
+00:00:02,144 --> 00:00:03,520
+Hello, Maisy.
+你好 波波
+
+2
+00:00:08,128 --> 00:00:11,360
+Oh, a cook book. 
+哦 烹饪书啊
+
+3
+00:00:13,392 --> 00:00:15,472
+What are you going to make, Maisy?
+你要做什么呢 波波
+
+4
+00:00:18,000 --> 00:00:21,792
+Ah, gingerbread cookies, delicious.  
+哦 姜饼曲奇 很美味哦
+
+5
+00:00:23,056 --> 00:00:24,848
+What do you need first, Maisy?  
+你首先需要什么呢 波波
+
+6
+00:00:26,272 --> 00:00:28,704
+Some flour and some sugar.
+一些面粉和糖

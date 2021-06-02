@@ -1,0 +1,305 @@
+﻿1
+00:00:05,392 --> 00:00:10,448
+As usual the children put on a play at the end of term.
+孩子们照例在期末上演话剧
+
+2
+00:00:10,944 --> 00:00:13,376
+John wrote this year's play.
+约翰写今年的话剧
+
+3
+00:00:13,504 --> 00:00:14,496
+Here it is.
+是这样的
+
+4
+00:00:14,592 --> 00:00:15,872
+The bird
+鸟
+
+5
+00:00:16,848 --> 00:00:20,192
+Scene one: A market stall
+第一幕   一个街市档位
+
+6
+00:00:23,776 --> 00:00:27,936
+Birds for sale. Birds for sale. They all sing beautifully.
+卖鸟了   卖鸟了   它们都唱得很动听
+
+7
+00:00:27,930 --> 00:00:29,248
+How much is that bird?
+那只鸟多少钱
+
+8
+00:00:29,376 --> 00:00:30,224
+This yellow one?
+这只黄色的吗
+
+9
+00:00:30,304 --> 00:00:30,720
+Yes.
+是的
+
+10
+00:00:30,800 --> 00:00:31,744
+Thirty dollars.
+三十美元
+
+11
+00:00:31,824 --> 00:00:32,672
+And the cage?
+笼子呢
+
+12
+00:00:32,768 --> 00:00:37,344
+Fifty dollars. You can have the bird and the cage for sixty-five dollars.
+五十美元   鸟和笼子一共六十五美元卖你
+
+13
+00:00:37,408 --> 00:00:38,400
+Does the bird sing?
+鸟唱歌吗
+
+14
+00:00:38,448 --> 00:00:39,792
+Of course it does.
+当然了
+
+15
+00:00:39,888 --> 00:00:42,784
+Here you are. Here's sixty-five dollars. 
+给你   这是六十五美元
+
+16
+00:00:45,216 --> 00:00:49,632
+Scene two: Inside the old man's flat
+第二幕   在老人的公寓里
+
+17
+00:00:51,472 --> 00:00:53,488
+What have you got there?
+你拿的是什么啊
+
+18
+00:00:53,616 --> 00:00:56,208
+A bird. I bought it in the market.
+一只鸟   我在市场买的
+
+19
+00:00:56,352 --> 00:00:58,464
+We haven't got enough money for a bird.
+我们没钱养鸟
+
+20
+00:00:58,576 --> 00:01:01,472
+We need lots of things but we don't need a bird.
+我们需要很多东西   但我们不需要一只鸟
+
+21
+00:01:01,600 --> 00:01:04,544
+I can take it for a walk in its cage every day.
+我可以每天提着笼子带它去散步
+
+22
+00:01:04,592 --> 00:01:05,856
+It'll sing to me.
+它会对我唱歌
+
+23
+00:01:05,984 --> 00:01:08,992
+You're a silly old man. You waste our money.
+你真是个傻老头   你浪费了我们的钱
+
+24
+00:01:09,200 --> 00:01:11,968
+Don't you like listening to a bird sing?
+你难道不喜欢听鸟唱歌吗
+
+25
+00:01:12,096 --> 00:01:16,192
+I like eating a bird more! Why didn't you buy a chicken or a duck?
+我更喜欢吃鸟   你为什么不买只鸡或鸭呢
+
+26
+00:01:16,304 --> 00:01:18,336
+Because they don't sing.
+因为它们不唱歌
+
+27
+00:01:19,296 --> 00:01:24,656
+Scene three: Inside the flat- two weeks later
+第三幕   在公寓里   两周后
+
+28
+00:01:25,360 --> 00:01:27,616
+That bird hasn't sung yet.
+那只鸟还没唱歌呢
+
+29
+00:01:27,776 --> 00:01:31,232
+I know. And I've taken it for a walk every day. 
+我知道   而且我已经每天带它去散步了
+
+30
+00:01:31,376 --> 00:01:32,960
+Is there anything wrong with it?
+它有什么问题吗
+
+31
+00:01:33,056 --> 00:01:34,448
+I don't know.
+我不知道
+
+32
+00:01:34,688 --> 00:01:39,376
+What a waste of money! Sixty-five dollars for that bird and it won't sing.
+多浪费钱啊   六十五美元买那只鸟   还不会唱歌
+
+33
+00:01:39,584 --> 00:01:42,064
+I'll take it for one more walk.
+我再带它去散个步
+
+34
+00:01:43,232 --> 00:01:46,528
+Scene four: On the street
+第四幕   在街上
+
+35
+00:01:50,320 --> 00:01:51,760
+Good morning, sir.
+早上好   先生
+
+36
+00:01:51,856 --> 00:01:52,848
+Good morning.
+早上好
+
+37
+00:01:53,056 --> 00:01:55,968
+You've got a fine bird in that cage.
+你笼子里的鸟真漂亮
+
+38
+00:01:56,096 --> 00:01:58,416
+Yes, but it won't sing.
+是的   但它不唱歌
+
+39
+00:01:58,480 --> 00:02:02,496
+It won't sing! I can make it sing.
+它不会唱歌   我可以让它唱歌
+
+40
+00:02:02,560 --> 00:02:03,488
+How?
+如何
+
+41
+00:02:03,696 --> 00:02:07,120
+Put it down, sir, next to my bowl.
+把它放下   先生   放在我的碗边上
+
+42
+00:02:07,488 --> 00:02:15,280
+The beggar whistles to the bird and it begins to sing.
+乞丐对鸟吹口哨   它开始唱歌
+
+43
+00:02:19,296 --> 00:02:21,248
+I can't whistle like that.
+我不能像那样吹口哨
+
+44
+00:02:21,360 --> 00:02:23,376
+The bird will never sing for me.
+鸟不会为我歌唱了
+
+45
+00:02:23,488 --> 00:02:26,720
+Then why not give it to me, sir?
+那为什么不把它给我呢   先生
+
+46
+00:02:27,120 --> 00:02:30,320
+It will sing for me every day.
+它会每天为我歌唱
+
+47
+00:02:30,800 --> 00:02:33,536
+You can come and listen to it.
+你可以过来听
+
+48
+00:02:33,616 --> 00:02:35,888
+That's a very good idea.
+那是个非常好的主意
+
+49
+00:02:38,688 --> 00:02:41,808
+Scene five: Inside the flat
+第五幕   在公寓里
+
+50
+00:02:42,400 --> 00:02:43,984
+Where's the bird?
+鸟在哪儿
+
+51
+00:02:44,128 --> 00:02:47,072
+I gave it to the beggar on the corner of the street.
+我把它给了街角的那个乞丐
+
+52
+00:02:47,424 --> 00:02:51,888
+You gave it to the beggar! Why did you do that?
+你把它给了那个乞丐   你为什么这样做
+
+53
+00:02:52,032 --> 00:02:53,888
+Because it'll sing for him.
+因为它会为他歌唱
+
+54
+00:02:54,752 --> 00:02:57,888
+You gave that beggar sixty-five dollars!
+你给了那个乞丐六十五美元
+
+55
+00:02:58,160 --> 00:03:04,896
+You don't understand. The bird won't sing for me but it will sing for him.
+你不懂   鸟不会为我歌唱   但它会为他歌唱
+
+56
+00:03:05,232 --> 00:03:07,904
+I can listen to it every day now.
+现在我可以每天听了
+
+57
+00:03:08,320 --> 00:03:11,408
+But it's not your bird now. It's his.
+但它现在不是你的鸟了啊   是他的了
+
+58
+00:03:11,808 --> 00:03:14,896
+Yes, but it's not his song.
+是的   但这不是他的歌
+
+59
+00:03:15,248 --> 00:03:20,080
+I wanted the song, not the bird. Now I've got it.
+我想要的是歌   不是鸟   现在我得到了
+
+60
+00:03:20,320 --> 00:03:22,448
+You're a very silly old man.
+你是个非常傻的老头
+
+61
+00:03:22,528 --> 00:03:23,456
+Am I?
+是吗
+

@@ -1,0 +1,70 @@
+﻿1
+00:00:01,742 --> 00:00:02,915
+Hello.
+你好
+
+2
+00:00:03,164 --> 00:00:05,884
+Hello, Doctor Hamster! This is Mr. Elephant.
+你好 仓鼠医生 我是大象先生
+
+3
+00:00:06,160 --> 00:00:09,662
+Mr. Elephant and his family are out for a walk in the mountains.
+大象先生和他的家人在山里散步
+
+4
+00:00:09,742 --> 00:00:11,697
+We've found a sick lizard.
+我们发现了一只生病的蜥蜴
+
+5
+00:00:11,822 --> 00:00:13,048
+It's a gecko.
+是只壁虎
+
+6
+00:00:13,191 --> 00:00:16,924
+Edmond knows all about lizards. He is a clever-clogs.
+埃德蒙认识各种蜥蜴 他聪明极了
+
+7
+00:00:16,968 --> 00:00:18,880
+I'll be straight there.
+我马上到
+
+8
+00:00:19,404 --> 00:00:22,400
+Woo! Can we come too?
+呜 我们也能去吗
+
+9
+00:00:22,471 --> 00:00:24,773
+Of course! Let's go!
+当然 走吧
+
+10
+00:00:25,804 --> 00:00:28,675
+Are we going in an ambulance?
+我们是坐救护车去吗
+
+11
+00:00:28,755 --> 00:00:32,204
+No. The mountain's too far away!
+不 山里太远了
+
+12
+00:00:32,284 --> 00:00:34,417
+We'll go in my aeroplane!
+我们坐飞机去
+
+13
+00:00:34,515 --> 00:00:36,035
+Woo!
+呜
+
+14
+00:00:36,071 --> 00:00:38,728
+Aeroplane! Mow!
+飞机 妙
+

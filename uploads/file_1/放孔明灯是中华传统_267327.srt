@@ -1,0 +1,5 @@
+﻿1
+00:00:01,500 --> 00:00:07,430
+Lighting lanterns has long been a Chinese tradition to ward off ghosts.
+放飞孔明灯是有着悠久历史的中华传统  可以驱鬼祈福
+

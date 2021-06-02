@@ -1,0 +1,20 @@
+﻿1
+00:00:01,072 --> 00:00:03,840
+I want to visit China.
+我想去中国
+
+2
+00:00:03,984 --> 00:00:06,576
+I want to visit the Great Wall.
+我想去参观长城
+
+3
+00:00:08,800 --> 00:00:13,104
+Hello, bird! Do you want to visit China?
+你好   小鸟   你想去中国吗
+
+4
+00:00:13,392 --> 00:00:14,816
+Tweet! Tweet!
+叽叽喳喳
+

@@ -1,0 +1,40 @@
+﻿1
+00:00:00,125 --> 00:00:04,102
+Hello princess, looks like your plan is working well.
+你好  公主  看起来你的计划进行得很好
+
+2
+00:00:04,125 --> 00:00:05,428
+Too well.
+好过头了
+
+3
+00:00:05,508 --> 00:00:07,200
+The general is happy, though.
+但是将军很高兴
+
+4
+00:00:07,314 --> 00:00:09,200
+Mmm, but I'm not.
+嗯  但我不高兴
+
+5
+00:00:09,394 --> 00:00:12,925
+I'm tired and he won't stop exercising.
+我很累  而他不肯停下锻炼
+
+6
+00:00:13,017 --> 00:00:15,211
+I'm sure he'll stop when he's ready.
+我相信他准备好了就会停止的
+
+7
+00:00:15,291 --> 00:00:17,782
+But I'm supposed to be in charge.
+但是本来应该听我的
+
+8
+00:00:17,977 --> 00:00:21,371
+He doesn't listen to my new shiny whistle anymore.
+他不再听从我闪亮的新哨子了
+

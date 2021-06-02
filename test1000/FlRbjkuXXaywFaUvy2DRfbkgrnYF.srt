@@ -1,0 +1,60 @@
+﻿1
+00:00:00,040 --> 00:00:02,920
+Here come Grandma Duck and Daisy.
+鸭奶奶和黛西来了
+
+2
+00:00:09,400 --> 00:00:11,400
+What is Grandma carrying?
+奶奶拿着什么
+
+3
+00:00:11,610 --> 00:00:13,400
+A bucket of water.
+一桶水
+
+4
+00:00:14,180 --> 00:00:16,480
+What is Daisy carrying?
+黛西拿的是什么
+
+5
+00:00:16,570 --> 00:00:18,530
+A towel and soap.
+毛巾和肥皂
+
+6
+00:00:21,640 --> 00:00:24,390
+Huey is washing his face.
+Huey正在洗脸
+
+7
+00:00:24,550 --> 00:00:27,260
+Scrub scrub scrub.
+擦  擦  擦
+
+8
+00:00:29,530 --> 00:00:32,070
+Dewey is washing hid hands.
+Dewey正在洗手
+
+9
+00:00:32,540 --> 00:00:35,320
+Scrub scrub scrub.
+擦  擦  擦
+
+10
+00:00:37,660 --> 00:00:41,360
+Louie is drying his face with the towel.
+Louie正在用毛巾擦脸
+
+11
+00:00:44,200 --> 00:00:46,140
+Look at the water,
+看这个水
+
+12
+00:00:47,420 --> 00:00:49,530
+it's very soapy.
+它充满了肥皂
+

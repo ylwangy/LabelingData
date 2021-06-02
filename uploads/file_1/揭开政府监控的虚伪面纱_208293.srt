@@ -1,0 +1,80 @@
+﻿1
+00:00:00,465 --> 00:00:06,487
+It was a welcome change when they put me on terrorism watch duty.
+他们有一个可喜的变化  就是把我放在了监控恐怖分子的岗位值班
+
+2
+00:00:06,756 --> 00:00:11,294
+Every day I'd go in and I'd get starting points for SIGINT.
+我每天的工作就是收集信情
+
+3
+00:00:11,338 --> 00:00:13,323
+which is Signals Intelligence.
+也就是信号情报
+
+4
+00:00:14,618 --> 00:00:18,661
+A lot of them were American, which felt strange
+有许多人都曾是美国人  很奇怪
+
+5
+00:00:18,690 --> 00:00:20,792
+but you just keep reminding yourself
+但是你必须时刻提醒自己
+
+6
+00:00:20,821 --> 00:00:25,170
+I could stop a dirty bomb attack and save thousands of lives.
+我能阻止脏弹袭击并拯救很多人
+
+7
+00:00:25,207 --> 00:00:31,207
+Thing is, you're not just following your bad guy targets, you're also following their metadata.
+但是你不仅仅是追踪坏蛋  你还追踪了他们的元数据
+
+8
+00:00:31,280 --> 00:00:35,767
+Which is basically, all the phone numbers that they're in touch with.
+也就是基本上  所有跟他们通过话的电话号码
+
+9
+00:00:36,040 --> 00:00:42,436
+Let's say your target is a shady Iranian banker operating out of Beirut.
+比如说目标是一个在贝鲁特的黑心伊朗银行家
+
+10
+00:00:42,465 --> 00:00:47,767
+Okay, so, you're watching his stuff, but you're also watching all the people that he talks to.
+好了  那么你追踪了他的数据  也就跟踪了所有跟他联系过的人
+
+11
+00:00:47,803 --> 00:00:52,850
+Including, you know, his cousin who's just some dentist living in Buffalo.
+甚至包括他那在巴法络的牙医老表
+
+12
+00:00:52,872 --> 00:00:55,847
+And then you've gotta watch all of that guy's contacts.
+然后你还得追踪这个人的联系名单
+
+13
+00:00:55,883 --> 00:01:01,621
+And by the time you go a third hop out from the original target, you're watching this bartender
+当你的监控迭代三次之后  你竟然发现一个酒保
+
+14
+00:01:01,658 --> 00:01:04,981
+chat with her mother about Botox.
+在跟他妈妈聊肉毒杆菌
+
+15
+00:01:05,010 --> 00:01:09,658
+'Cause three hops from anyone with, say, 40 contacts...
+因为随便一个有40个联系人的人迭代三次  
+
+16
+00:01:09,680 --> 00:01:13,490
+you're looking at a list of 2.5 million people.
+你都是在监控250万人
+

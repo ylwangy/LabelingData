@@ -1,0 +1,30 @@
+﻿1
+00:00:00,000 --> 00:00:03,920
+Help? You want me to help you move a rock?
+帮忙   你们想要我帮忙移走石头
+
+2
+00:00:04,420 --> 00:00:06,520
+What's in it for me?
+我能从中得到什么好处
+
+3
+00:00:09,320 --> 00:00:10,320
+Nothing!
+没有
+
+4
+00:00:10,520 --> 00:00:12,560
+Fair enough! Let's go!
+说得对   我们走
+
+5
+00:00:15,060 --> 00:00:19,080
+Come on everybody. We are moving a rock. Hurry up! Don't miss it.
+大家快来啊   我们要搬一块石头   快来啊   别错过
+
+6
+00:00:21,400 --> 00:00:22,600
+Fast, fast, fast
+快快快
+

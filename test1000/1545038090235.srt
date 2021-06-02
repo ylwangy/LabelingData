@@ -1,0 +1,30 @@
+﻿1
+00:00:00,297 --> 00:00:03,137
+Redwood trees are very tall.
+红杉树很高
+
+2
+00:00:03,491 --> 00:00:04,845
+This is bark.
+这是树皮
+
+3
+00:00:05,062 --> 00:00:07,828
+Redwood trees have thick bark.
+红木树有厚厚的树皮
+
+4
+00:00:08,417 --> 00:00:11,422
+Redwood trees have big roots.
+红木有大根
+
+5
+00:00:11,651 --> 00:00:13,925
+It's a redwood cone.
+这是一个红木锥
+
+6
+00:00:14,182 --> 00:00:16,188
+Redwood seeds are small.
+红木种子很小
+

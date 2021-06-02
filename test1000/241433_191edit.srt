@@ -1,0 +1,29 @@
+﻿1
+00:00:02,266 --> 00:00:03,466
+Hello, Maisy.
+你好   小鼠波波
+
+2
+00:00:03,733 --> 00:00:05,553
+What are you doing today?
+你今天做什么
+
+3
+00:00:06,446 --> 00:00:10,813
+Ah, camping in the garden. What fun!
+啊   在花园里野营   多有趣啊
+
+4
+00:00:13,906 --> 00:00:16,520
+Hello, Charley! Hello, Tallulah!
+你好   查理   你好   塔卢拉
+
+5
+00:00:21,500 --> 00:00:23,000
+Don't go to sleep, Charley.
+别睡觉   查理
+
+6
+00:00:23,033 --> 00:00:24,813
+Haven't put the tent up yet.
+还没把帐篷搭起来呢

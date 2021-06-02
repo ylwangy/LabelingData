@@ -1,0 +1,60 @@
+﻿1
+00:00:00,400 --> 00:00:01,350
+Hi, Ann.
+
+2
+00:00:01,480 --> 00:00:03,800
+Summer vacation will start next week.
+
+3
+00:00:03,940 --> 00:00:05,800
+What will you do on vacation?
+
+4
+00:00:05,950 --> 00:00:07,070
+Hi, David.
+
+5
+00:00:07,310 --> 00:00:09,480
+I want to go to the seaside.
+
+6
+00:00:09,730 --> 00:00:10,860
+Where will you go?
+
+7
+00:00:10,930 --> 00:00:12,210
+I'll go to Dalian.
+
+8
+00:00:12,260 --> 00:00:13,810
+I can go swimming there.
+
+9
+00:00:14,010 --> 00:00:16,160
+I can eat a lot of seafood, too.
+
+10
+00:00:16,390 --> 00:00:18,160
+Wow, sounds great!
+
+11
+00:00:18,330 --> 00:00:19,170
+When will you go?
+
+12
+00:00:19,340 --> 00:00:21,170
+I will go next Saturday.
+
+13
+00:00:21,220 --> 00:00:23,170
+And I will go with my parents.
+
+14
+00:00:23,230 --> 00:00:24,670
+Have a nice vacation!
+
+15
+00:00:24,780 --> 00:00:26,530
+Thanks. You too.
+

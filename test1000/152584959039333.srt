@@ -1,0 +1,100 @@
+﻿1
+00:00:00,240 --> 00:00:03,340
+Can animals and people live in Antarctica?
+动物和人类能够在南极洲存活吗
+
+2
+00:00:03,980 --> 00:00:08,920
+Birds, seals, and whales have a shield against cold air and water.
+鸟   海豹以及鲸鱼都有自己的庇护所来抵挡寒风和水
+
+3
+00:00:09,760 --> 00:00:14,000
+Birds have feathers that trap warm air near their bodies for warmth.
+鸟的羽毛可以维持自己身体的热量
+
+4
+00:00:14,390 --> 00:00:18,920
+Seals have fur and a layer of fat that hold in warmth.
+海豹的皮毛以及一层脂肪可以让他们保持温暖
+
+5
+00:00:20,240 --> 00:00:24,040
+Early explorers had a hard time with the harsh setting.
+早期的探险家们在严酷的环境下度过了艰难的时光
+
+6
+00:00:24,520 --> 00:00:30,500
+Lives were lost from lack of food and from being exposed to cold weather.
+很多人因为缺乏食物和暴露在寒冷的天气中而丧失生命.
+
+7
+00:00:31,520 --> 00:00:34,930
+Today people know how to prepare to live there.
+如今人们已经懂得如何在那里生活了
+
+8
+00:00:35,510 --> 00:00:39,390
+Warmer materials have been made for clothing and shelter.
+保温材料被用来制作衣服和建造庇护所
+
+9
+00:00:39,900 --> 00:00:42,760
+But humans still have a difficult time.
+但人们的生活依然艰难
+
+10
+00:00:42,830 --> 00:00:43,790
+Did you know?...
+   你知道吗
+
+11
+00:00:43,820 --> 00:00:48,360
+Interesting facts about how animals survive in Antarctica
+南极洲的动物们如何生存的趣闻
+
+12
+00:00:48,900 --> 00:00:51,670
+Animal   Feature
+   动物    特点
+
+13
+00:00:52,360 --> 00:00:54,750
+Animal: Penguins
+   动物    企鹅
+
+14
+00:00:55,330 --> 00:01:01,270
+Feature: have a thick layer of packed waterproof feathers to keep them warm.
+特点   拥有一层厚厚的防水羽毛以保暖
+
+15
+00:01:01,860 --> 00:01:04,420
+Animal: Insects
+   动物   昆虫
+
+16
+00:01:04,720 --> 00:01:10,740
+Feature: have natural antifreeze in their blood to keep them from freezing.
+特点   在它们血液中有天然的防冻物质以抵抗寒冷
+
+17
+00:01:11,490 --> 00:01:14,160
+Animal: Seals
+动物   海豹
+
+18
+00:01:14,560 --> 00:01:20,920
+Feature: are born with white fur to help them blend into the ice and snow.
+特点   与生俱来的白色的皮毛能够帮助它们适应冰雪环境
+
+19
+00:01:21,770 --> 00:01:24,680
+Animal: Polar Bears
+动物   北极熊
+
+20
+00:01:25,260 --> 00:01:31,290
+Feature: have thick claws to help them dig into the ice so they don't slip.
+特点   厚厚的爪子能够帮助它们牢牢抓住冰面而不至于滑动
+

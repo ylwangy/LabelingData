@@ -1,0 +1,35 @@
+1
+00:00:01,600 --> 00:00:03,674
+The Little Prince
+《小王子》
+
+2
+00:00:12,554 --> 00:00:15,977
+One day, the engine on my plane broke down,
+一天   我的飞机引擎坏了
+
+3
+00:00:16,000 --> 00:00:18,628
+and I was forced to land in a desert.
+只好迫降在沙漠
+
+4
+00:00:20,314 --> 00:00:22,445
+There was a severe sandstorm
+沙漠刮起了很大的沙尘暴
+
+5
+00:00:22,485 --> 00:00:25,445
+and though I tried my hardest to get the engine fixed,
+尽管我想尽办法想修复引擎
+
+6
+00:00:25,491 --> 00:00:27,531
+the plane wouldn't start.
+飞机仍无法发动
+
+7
+00:00:29,508 --> 00:00:33,217
+I had to spend the night alone among the sand dunes.
+我不得不在这沙漠独自过夜
+

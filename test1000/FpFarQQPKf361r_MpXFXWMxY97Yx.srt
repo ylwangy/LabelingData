@@ -1,0 +1,48 @@
+﻿1
+00:00:00,400 --> 00:00:01,900
+STOP AND CHECK
+
+2
+00:00:02,150 --> 00:00:05,250
+What should people do if a hurricane is coming?
+
+3
+00:00:05,475 --> 00:00:07,675
+Hurricanes can destroy homes.
+
+4
+00:00:07,975 --> 00:00:10,825
+People receive a warning when a hurricane is coming.
+
+5
+00:00:11,175 --> 00:00:12,425
+They prepare.
+
+6
+00:00:12,775 --> 00:00:15,300
+They try to prevent damage to their homes.
+
+7
+00:00:17,425 --> 00:00:20,250
+What to Do in a Weather Emergency
+
+8
+00:00:20,525 --> 00:00:22,675
+1 Stay calm.
+
+9
+00:00:23,025 --> 00:00:25,400
+2 Go to a safe place.
+
+10
+00:00:25,850 --> 00:00:29,750
+3 Wait to hear that the storm is over.
+
+11
+00:00:31,425 --> 00:00:35,875
+These men put boards over windows and doors to protect this home.
+
+12
+00:00:37,650 --> 00:00:39,050
+Board
+

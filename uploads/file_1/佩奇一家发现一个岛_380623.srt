@@ -1,0 +1,60 @@
+﻿1
+00:00:01,250 --> 00:00:04,120
+Hello, we're sailing.
+你们好  我们在航行
+
+2
+00:00:04,160 --> 00:00:05,600
+We're canoeing.
+我们在划独木舟
+
+3
+00:00:05,680 --> 00:00:07,360
+We're pedalling.
+我们在踩脚踏船
+
+4
+00:00:09,170 --> 00:00:11,280
+Look, an island.
+看  一个岛
+
+5
+00:00:11,405 --> 00:00:13,448
+We can go there for our picnic.
+我们可以去那里野餐
+
+6
+00:00:13,490 --> 00:00:14,770
+Hooray.
+万岁
+
+7
+00:00:15,800 --> 00:00:21,400
+The island is a bit small to have a picnic on.
+岛有点小  不能野餐
+
+8
+00:00:21,440 --> 00:00:23,930
+We can have our picnic in the boats.
+我们可以在船上野餐
+
+9
+00:00:23,980 --> 00:00:25,630
+Who'd like a sandwich?
+谁要三明治
+
+10
+00:00:25,680 --> 00:00:26,960
+Me, please.
+我
+
+11
+00:00:27,970 --> 00:00:30,220
+Here's some bread, Mrs. Duck.
+这里有些面包  鸭太太
+
+12
+00:00:31,680 --> 00:00:37,051
+Mrs. Duck loves picnics. Everyone loves picnics.
+鸭太太超爱野餐  大家都超爱野餐
+

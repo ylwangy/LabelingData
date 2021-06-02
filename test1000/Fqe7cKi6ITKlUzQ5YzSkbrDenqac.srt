@@ -1,0 +1,45 @@
+﻿1
+00:00:00,000 --> 00:00:01,860
+What do you have?
+你有什么
+
+2
+00:00:03,200 --> 00:00:07,230
+What do you have? I have pizza.
+你有什么  我有披萨
+
+3
+00:00:09,150 --> 00:00:13,270
+What do you have? I have a sandwich.
+你有什么  我有一块三明治
+
+4
+00:00:15,000 --> 00:00:19,000
+What do you have? I have an apple.
+你有什么  我有一个苹果
+
+5
+00:00:21,140 --> 00:00:25,100
+What do you have? I have a banana.
+你有什么  我有一个香蕉
+
+6
+00:00:26,300 --> 00:00:30,130
+What do you have? I have chips.
+你有什么  我有薯片
+
+7
+00:00:31,410 --> 00:00:35,090
+What do you have? I have water.
+你有什么  我有水
+
+8
+00:00:36,910 --> 00:00:40,810
+What do you have? I have juice.
+你有什么  我有果汁
+
+9
+00:00:42,400 --> 00:00:47,550
+What do you have? Nothing! I ate it all.
+你有什么  什么没有  我都吃光啦
+

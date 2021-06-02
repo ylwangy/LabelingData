@@ -1,0 +1,30 @@
+﻿1
+00:00:00,500 --> 00:00:04,575
+Oh,how beautiful!
+哦  好漂亮
+
+2
+00:00:07,100 --> 00:00:12,250
+I am the only flower in this whole world.
+我是这个世界上唯一的一朵花
+
+3
+00:00:20,200 --> 00:00:22,875
+The wind is so very cold,
+风好冷啊
+
+4
+00:00:22,925 --> 00:00:27,950
+Can you please shield me with a glass cover every night?
+你可以每晚都用一个玻璃罩子把我遮起来吗
+
+5
+00:00:28,925 --> 00:00:30,625
+I'm so thirsty.
+我好口渴
+
+6
+00:00:31,125 --> 00:00:33,650
+Please give me some water.
+请给我一些水
+

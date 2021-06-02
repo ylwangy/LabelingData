@@ -1,0 +1,25 @@
+﻿1
+00:00:00,450 --> 00:00:02,960
+Look at Tom and his dog.
+瞧汤姆和他的狗
+
+2
+00:00:03,080 --> 00:00:06,040
+The dog has a black spot on his back.
+狗的背上有一块黑斑
+
+3
+00:00:06,190 --> 00:00:08,650
+Do you think he is a good dog?
+你觉得它是一只乖狗吗
+
+4
+00:00:09,040 --> 00:00:11,860
+Tom has a big top, too.
+汤姆还有一个大陀螺
+
+5
+00:00:12,000 --> 00:00:14,930
+It is on the box with Kitty's doll.
+陀螺和凯蒂的娃娃一起放在盒子上
+

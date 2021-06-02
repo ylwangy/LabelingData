@@ -1,0 +1,50 @@
+﻿1
+00:00:00,260 --> 00:00:01,720
+Little Centipede
+小蜈蚣
+
+2
+00:00:03,346 --> 00:00:06,566
+Hello, I'm Little Centipede.
+你好，我叫小蜈蚣
+
+3
+00:00:07,100 --> 00:00:08,566
+Look at my things.
+看看我的东西
+
+4
+00:00:09,153 --> 00:00:15,920
+I have one pencil box, two erasers, three caps,
+我有一个铅笔盒  两块橡皮  三次盖帽
+
+5
+00:00:16,386 --> 00:00:20,353
+eight balls and fourteen pencils.
+\八个球和十四支铅笔
+
+6
+00:00:21,133 --> 00:00:23,913
+Wow! So many shoes!
+真的  这么多鞋子
+
+7
+00:00:24,420 --> 00:00:26,100
+Let me have a try.
+让我试一试
+
+8
+00:00:26,820 --> 00:00:30,886
+One, two, three, four …
+一  二  三  四
+
+9
+00:00:31,333 --> 00:00:34,666
+Eighteen, nineteen, twenty …
+十八  十九  二十
+
+10
+00:00:35,140 --> 00:00:37,973
+Wow! Too many to count!
+真的  计数太多
+

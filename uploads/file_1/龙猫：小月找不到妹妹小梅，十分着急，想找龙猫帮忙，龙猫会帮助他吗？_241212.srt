@@ -1,0 +1,34 @@
+1
+00:00:01,620 --> 00:00:02,610
+Totoro!
+龙猫
+
+2
+00:00:04,853 --> 00:00:06,675
+Totoro, Mei is lost.
+龙猫   小梅不见了
+
+3
+00:00:06,800 --> 00:00:09,111
+I looked everywhere for her but I couldn't find her.
+我到处都找了   但是找不到她
+
+4
+00:00:09,182 --> 00:00:10,186
+Please help me.
+求你帮帮我吧
+
+5
+00:00:10,190 --> 00:00:12,091
+I have to find her.
+我必须找到她
+
+6
+00:00:12,830 --> 00:00:15,200
+I'm sure she's scared half to death by now.
+她现在一定吓得半死
+
+7
+00:00:15,590  --> 00:00:18,260
+I don't know who else to turn.
+我不知道还能找谁帮忙了

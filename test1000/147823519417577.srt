@@ -1,0 +1,30 @@
+﻿1
+00:00:00,000 --> 00:00:03,344
+"I can help you," said the fairy.
+我能帮你   仙女说
+
+2
+00:00:03,408 --> 00:00:06,304
+"You can have your wish.
+你能实现你的愿望
+
+3
+00:00:06,400 --> 00:00:11,024
+Walk down the road and you will see a little house.
+沿着这条路走   你会看到一个小房子
+
+4
+00:00:12,032 --> 00:00:16,640
+So the old woman walked down the road.
+所以老妇人沿着路走
+
+5
+00:00:16,848 --> 00:00:20,176
+There she saw the little house.
+在那里   她看到了小房子
+
+6
+00:00:20,320 --> 00:00:23,328
+She opened the door and went in.
+她打开门   走了进去
+

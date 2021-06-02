@@ -1,0 +1,32 @@
+﻿1
+00:00:00,100 --> 00:00:02,520
+I'm not very good at sports.
+
+2
+00:00:02,620 --> 00:00:05,120
+I don't like to kick soccer balls.
+
+3
+00:00:05,240 --> 00:00:07,720
+I don't like to bounce basketballs.
+
+4
+00:00:07,940 --> 00:00:11,520
+Catching and throwing balls is not fun.
+
+5
+00:00:11,580 --> 00:00:15,920
+Football is too rough. Badminton is too easy.
+
+6
+00:00:15,920 --> 00:00:19,580
+Baseball and hockey have too much equipment. 
+
+7
+00:00:19,660 --> 00:00:23,580
+But there is one sport I like to play. What is it?
+
+8
+00:00:23,680 --> 00:00:28,280
+Table tennis! It's just the right size and style for me!
+

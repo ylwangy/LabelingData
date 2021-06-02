@@ -1,0 +1,69 @@
+﻿1
+00:00:05,360 --> 00:00:06,190
+Hello, Duck.
+你好 鸭子
+
+2
+00:00:07,210 --> 00:00:08,990
+Hello, Little Bear.
+你好 小熊
+
+3
+00:00:10,400 --> 00:00:11,490
+What's the matter?
+怎么了
+
+4
+00:00:11,940 --> 00:00:14,360
+All the puddles are frozen solid.
+所有的水坑都冰封了
+
+5
+00:00:14,760 --> 00:00:17,210
+There's no where to splash and swim.
+没有地方去戏水和游泳了
+
+6
+00:00:19,230 --> 00:00:21,760
+Maybe you should come with me, to the North Pole?
+也许你应该跟我去北极
+
+7
+00:00:22,360 --> 00:00:25,780
+The North Pole? Do they have puddles there?
+北极吗 那里有水坑吗
+
+8
+00:00:25,820  --> 00:00:27,360
+I don't think so.
+没有
+
+9
+00:00:27,540 --> 00:00:28,960
+It's where the snow comes from.
+雪就从那里来
+
+10
+00:00:29,220 --> 00:00:31,360
+It's very cold and no body lives there.
+那很冷而且没有人住
+
+11
+00:00:31,710 --> 00:00:34,560
+Then why would you want to go there?
+那你为什么要去那呢
+
+12
+00:00:34,700 --> 00:00:36,480
+Because that's where explorers go.
+因为探险家们都去那
+
+13
+00:00:37,490  --> 00:00:39,160
+It would be an adventure.
+那将是一次冒险
+
+14
+00:00:39,580 --> 00:00:43,550
+OK! It's better than sitting on a frozen pond, I guess.
+好吧 我猜比坐在冰冻的池塘上好

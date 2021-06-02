@@ -1,0 +1,20 @@
+﻿1
+00:00:05,168 --> 00:00:07,136
+The sheep ran up the hill.
+小羊跑上山
+
+2
+00:00:07,520 --> 00:00:09,552
+The wolf ran up the hill.
+大灰狼跟上山
+
+3
+00:00:09,840 --> 00:00:12,000
+The sheep ran down the hill.
+小羊跑下山
+
+4
+00:00:12,288 --> 00:00:14,464
+The wolf ran down the hill.
+大灰狼跟下山
+

@@ -1,0 +1,50 @@
+﻿1
+00:00:00,365 --> 00:00:01,988
+Can I help you?
+需要帮忙吗
+
+2
+00:00:02,297 --> 00:00:06,777
+Yes. How can we get to the Children's Park?
+是的  我们怎么去儿童公园
+
+3
+00:00:07,257 --> 00:00:12,891
+Oh. You can take a bus at the bus stop and get off at Park Road.
+哦  你们可以在公交车站坐公交车  在公园路站下车
+
+4
+00:00:13,302 --> 00:00:14,777
+Park Road?
+公园路
+
+5
+00:00:15,417 --> 00:00:18,937
+Yes. You can see a cinema there. 
+是的  你可以看到一家电影院在那儿
+
+6
+00:00:19,371 --> 00:00:21,817
+The Children's Park is beside it.
+儿童公园在它边上
+
+7
+00:00:22,331 --> 00:00:27,382
+Is there a shop near the park? We want to buy some water.
+公园附近有商店吗  我们想买一些水
+
+8
+00:00:27,897 --> 00:00:32,594
+Yes. There is a shop between the school and the park.
+有的  学校和公园之间有一家商店
+
+9
+00:00:33,222 --> 00:00:34,514
+Thank you.
+谢谢你
+
+10
+00:00:35,142 --> 00:00:36,422
+You are welcome.
+不客气
+

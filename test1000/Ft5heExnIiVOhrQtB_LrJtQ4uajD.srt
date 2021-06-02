@@ -1,0 +1,75 @@
+﻿1
+00:00:00,000 --> 00:00:01,600
+Hello! Aunty.
+你好  姑妈
+
+2
+00:00:01,648 --> 00:00:04,072
+Happy Birthday!
+生日快乐
+
+3
+00:00:04,232 --> 00:00:06,752
+I've never thought he is so tall.
+我没想到他已经这么高了
+
+4
+00:00:06,800 --> 00:00:09,424
+You haven't seen him for five years.
+你已经五年没见过他了
+
+5
+00:00:09,480 --> 00:00:11,904
+Can I open the parcel now, Daddy?
+爸爸  我现在可以打开包裹吗
+
+6
+00:00:11,944 --> 00:00:14,368
+I'm afraid I can't stand waiting.
+恐怕我等不了
+
+7
+00:00:14,408 --> 00:00:19,296
+OK. Why don't you sit on that sofa to open your presents?
+好的  你为什么不坐在沙发上打开你的礼物呢
+
+8
+00:00:19,320 --> 00:00:21,632
+No one can see you in that corner.
+那个角落里没人能看见你
+
+9
+00:00:21,680 --> 00:00:24,220
+Which one are you opening first?
+你先拆哪一个
+
+10
+00:00:24,264 --> 00:00:26,296
+I'll open the red one.
+我要拆红色那个
+
+11
+00:00:26,424 --> 00:00:30,016
+Oh, what a wonderful record it is!
+哦  多棒的唱片啊
+
+12
+00:00:30,224 --> 00:00:32,104
+See who sent it to you?
+看看是谁送给你的
+
+13
+00:00:32,176 --> 00:00:35,248
+It's my Aunty. Thank you, Aunty.
+是姑妈  谢谢你  姑妈
+
+14
+00:00:35,336 --> 00:00:37,376
+Now it's time for the party.
+现在是派对的时间了
+
+15
+00:00:37,424 --> 00:00:40,048
+The cake has already been sent over.
+蛋糕已经送过来了
+

@@ -1,0 +1,8 @@
+﻿1
+00:00:00,130 --> 00:00:03,403
+Coy knows pseudonoise codes.
+
+2
+00:00:03,987 --> 00:00:07,243
+Sheena leads,Sheila needs.
+

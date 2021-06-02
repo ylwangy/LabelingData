@@ -1,0 +1,30 @@
+﻿1
+00:00:00,000 --> 00:00:02,480
+Please eat less.
+请吃得少一些
+
+2
+00:00:02,780 --> 00:00:05,780
+Please chew the food more.
+请多咀嚼一会儿食物
+
+3
+00:00:05,900 --> 00:00:09,400
+Please have less fried food.
+请少吃些油炸食物
+
+4
+00:00:09,560 --> 00:00:12,620
+Please stop drinking soda.
+别再喝碳酸饮料了哦
+
+5
+00:00:12,820 --> 00:00:15,920
+Please have more vegetables.
+多吃蔬菜哦
+
+6
+00:00:16,040 --> 00:00:19,400
+Please have less protein.
+别摄取太多蛋白质哦
+

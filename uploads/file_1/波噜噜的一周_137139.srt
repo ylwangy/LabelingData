@@ -1,0 +1,20 @@
+﻿1
+00:00:00,610 --> 00:00:04,261
+Bolooloo, my daddy is coming back.
+波噜噜   我爸爸要回来了
+
+2
+00:00:04,327 --> 00:00:06,260
+What day is it today?
+今天是星期几
+
+3
+00:00:06,349 --> 00:00:09,156
+Umm, today is Monday!
+嗯   今天是星期一
+
+4
+00:00:09,221 --> 00:00:16,880
+So Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday!
+所以星期一   星期二   星期三   星期四   星期五   星期六   星期日
+

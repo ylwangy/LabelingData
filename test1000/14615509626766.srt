@@ -1,0 +1,25 @@
+﻿1
+00:00:11,425 --> 00:00:15,360
+Ah, another perfect day in my hometown.
+啊   我家乡另一个完美的日子
+
+2
+00:00:15,370 --> 00:00:18,200
+Population, not very many.
+人口   不是很多
+
+3
+00:00:29,900 --> 00:00:31,500
+The sun is shining.
+太阳高照
+
+4
+00:00:31,510 --> 00:00:33,030
+The birds are chirping.
+鸟儿们在唧唧叫
+
+5
+00:00:33,060 --> 00:00:36,175
+And I'm doing a little sketching under my favorite tree.
+而我在我最喜欢的树下写生
+

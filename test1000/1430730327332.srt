@@ -1,0 +1,40 @@
+﻿1
+00:00:00,711 --> 00:00:03,813
+Why are you wearing a raincoat?
+为什么你穿着雨衣
+
+2
+00:00:04,008 --> 00:00:07,288
+Because it's going to rain.
+因为要下雨了
+
+3
+00:00:09,724 --> 00:00:12,871
+Why are you wearing a hat?
+为什么你戴着帽子
+
+4
+00:00:13,146 --> 00:00:16,240
+Because it's going to be sunny.
+因为要出太阳了
+
+5
+00:00:17,608 --> 00:00:20,800
+Why are you wearing a T-shirt?
+为什么你要穿T恤
+
+6
+00:00:20,888 --> 00:00:24,328
+Because I'm going to play basketball.
+因为我要去打篮球
+
+7
+00:00:25,173 --> 00:00:28,400
+Why are wearing a dress?
+为什么要穿裙子
+
+8
+00:00:28,471 --> 00:00:31,448
+Because I'm going to the theatre.
+因为我要去剧院
+

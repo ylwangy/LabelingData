@@ -1,0 +1,15 @@
+﻿1
+00:00:00,320 --> 00:00:05,000
+"You will be pleased with me today, mother," said Dick to his mother, coming home from school.
+妈妈  你今天一定会对我满意的  迪克放学回家后对妈妈说
+
+2
+00:00:05,440 --> 00:00:10,940
+ "I saved on fares. I didn't go to school by bus, I ran all the way after it."
+我省下了车钱  我上学时没乘公共汽车  而是跟着公共汽车一路跑到学校的
+
+3
+00:00:11,040 --> 00:00:15,740
+"Well," said his mother laughing, "Next time you should run after a taxi, you will save much more."
+哦  他妈妈笑着说  下次你跟在出租汽车后面跑  那会省得更多 
+

@@ -1,0 +1,30 @@
+﻿1
+00:00:00,448 --> 00:00:02,768
+Do you know Mr Wang?
+你认识王先生吗
+
+2
+00:00:02,976 --> 00:00:05,296
+Yes, I know him quite well.
+是的  跟他很熟
+
+3
+00:00:05,504 --> 00:00:07,536
+How long have you known him?
+你认识他多长时间了
+
+4
+00:00:07,984 --> 00:00:10,944
+I’ve known him since 2004.
+自从2004年我就认识他了
+
+5
+00:00:11,136 --> 00:00:14,768
+Then you’ve already known him for about three years.
+那你认识他大约三年了
+
+6
+00:00:15,060 --> 00:00:16,000
+That’s right.
+对
+

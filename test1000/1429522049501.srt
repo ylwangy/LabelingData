@@ -1,0 +1,45 @@
+﻿1
+00:00:07,280 --> 00:00:08,295
+ Hi. 
+嗨
+
+2
+00:00:08,344 --> 00:00:08,916
+Yes? 
+有事吗
+
+3
+00:00:08,996 --> 00:00:11,600
+I wonder if you could take a look at these shoes I bought here. 
+你能帮我看看我在这儿买的这双鞋吗
+
+4
+00:00:11,667 --> 00:00:14,720
+They’re pretty new, but they seem to be falling apart. 
+他们很新  但它们似乎要脱落了
+
+5
+00:00:14,830 --> 00:00:16,584
+Hmm. Let me see.  
+嗯  让我瞧瞧  对
+
+6
+00:00:16,683 --> 00:00:18,523
+Yes, this doesn’t look right. 
+对  似乎真不太好
+
+7
+00:00:18,609 --> 00:00:21,815
+The stitching is coming out. How long did you say you’ve had them? 
+这条缝线掉出来了  你刚刚说你买了多久啊 
+
+8
+00:00:21,883 --> 00:00:23,932
+Only about a month. Here’s the receipt. 
+只有一个月  发票在这里
+
+9
+00:00:24,012 --> 00:00:29,433
+Hmm…yes. Well, let me exchange these for you. I’m sorry for the inconvenience. 
+嗯  马上给您换  给您带来不便真对不起
+

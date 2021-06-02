@@ -1,0 +1,75 @@
+﻿1
+00:00:00,100 --> 00:00:05,350
+230 Fifth Street, New York, U.S.
+美国纽约第五街230号
+
+2
+00:00:05,900 --> 00:00:08,125
+Monday, March 14
+星期一 3月14日
+
+3
+00:00:08,325 --> 00:00:09,950
+Dear Mike,
+亲爱的迈克
+
+4
+00:00:10,225 --> 00:00:14,325
+My name is Anna. I live in New York.
+我的名字是安娜 我住在纽约
+
+5
+00:00:14,675 --> 00:00:17,700
+I'm ten years old. I'm tall.
+我今年十岁 我很高
+
+6
+00:00:18,050 --> 00:00:21,175
+I have long brown hair and blue eyes.
+我有一头棕色的长发和蓝色的眼睛
+
+7
+00:00:21,425 --> 00:00:26,475
+My favorite colour is red. I like wearing T-shirts and skirts.
+我最喜欢的颜色是红色 我喜欢穿T恤和裙子
+
+8
+00:00:26,700 --> 00:00:30,775
+I love reading. I like interesting stories.
+我喜欢阅读 我喜欢有趣的故事
+
+9
+00:00:31,175 --> 00:00:33,550
+I like music and math, too.
+我也喜欢音乐和数学
+
+10
+00:00:33,700 --> 00:00:36,575
+After school, I play with my friends.
+放学后 我和朋友一起玩
+
+11
+00:00:37,025 --> 00:00:42,025
+Here's a photo of my friends and me. I'm wearing a red T-shirt!
+下面是我和我朋友的照片 我穿着一件红色的T恤
+
+12
+00:00:42,425 --> 00:00:43,775
+What about you?
+你呢
+
+13
+00:00:44,150 --> 00:00:46,075
+Please write to me soon.
+请尽快给我写信
+
+14
+00:00:46,280 --> 00:00:47,720
+With love,
+良好的祝颂
+
+15
+00:00:47,840 --> 00:00:49,066
+Anna
+安娜
+
