@@ -759,6 +759,11 @@ with open('sents.txt','r') as f:
             for key in grammar_dict:
                 if grammar_dict[key]:
                     grammars.append(key)
+            for i in ['when', 'where']:
+                if '定语从句 - 非限制性 - {}'.format(i) in grammars:
+                    grammars.remove('状语从句 - {}'.format(i))
+                elif '定语从句 - {}'.format(i) in grammars:
+                    grammars.remove('状语从句 - {}'.format(i))
             return grammars, sentence
 
 
