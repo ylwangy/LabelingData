@@ -608,7 +608,7 @@ with open('sents.txt','r') as f:
                                     elif isinstance(sbar_nodes[0], LeafTreebankNode) and sbar_nodes[0].tag == "IN":
                                         grammar_dict['状语从句 - {}'.format(marker + sbar_nodes[0].word)] = True
 
-                elif curr_node.label == "S":
+                elif curr_node.label == "S" or "SINV":
                     s_nodes = [_ for _ in curr_node.children]
                     for curr_node in s_nodes:
                         if isinstance(curr_node, LeafTreebankNode):
